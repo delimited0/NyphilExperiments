@@ -35,9 +35,10 @@ server <- function(input, output) {
   })
   
   output$downloadPlot <- downloadHandler(
-    filename = function() { paste(input$dataset, '.pdf', sep='') },
+    filename = function() { paste(input$dataset, '', sep='') },
     content = function(file) {
-      pdf(file, height=5, useDingbats=FALSE)
+      # pdf(file, height=5, useDingbats=FALSE)
+      svg(file, width = 7, height = 5)
       print(plotInput())
       dev.off() 
     }
