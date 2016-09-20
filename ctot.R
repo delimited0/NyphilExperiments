@@ -1,4 +1,7 @@
 Rcpp::sourceCpp("ctot.cpp")
+library(ggplot2)
+library(plyr)
+library(directlabels)
 ctot <- function(composers, conductors, dates, K, alpha = .1, eta = .01, 
                  nu = .5, iter = 200) {
 # composers - character
@@ -61,6 +64,37 @@ get_topics <- function(fit, K) {
 
 # get time distribution of topic k
 time_dist <- function(fit, k) {
-  curve(dbeta(x, shape1 = fit$psi[1, k], 
-              shape2 = fit$psi[2, k]), add = FALSE)
+  curve(dbeta(x, shape1 = fit$psi[1, k], shape2 = fit$psi[2, k]), 
+        add = FALSE, 
+        xlab = "Time", ylab = "Density")
 }
+
+# topic distribution profile over time
+topic_dist <- function(fit, times = seq(from = .01, to = .99, by =.01)) {
+  heights <- mapply(FUN = function(x, y) {
+    dbeta(times, x, y)    
+    }, fit$psi[1,], fit$psi[2,]
+  )
+  heights <- heights / rowSums(heights)
+  heights <- t(heights)[1:length(t(heights))]
+  dat <- data.frame(t = rep(times, each = fit$K), topic = as.factor(rep(1:fit$K, times = length(times))), 
+                    val = heights)
+  max_times <- sapply(1:fit$K, function(x) which.max(dat$val[dat$topic == x]))
+  p <- ggplot(dat, aes(x=t, y=val, group=topic, fill=topic)) + 
+    geom_area(position="fill", color="black") + 
+    xlab("Time") + ylab("Proportion") + 
+    theme_bw() + theme(panel.grid.major = element_blank(), 
+                       panel.grid.minor = element_blank(),
+                       panel.border = element_blank(),
+                       legend.position = "none")
+  plot_dat <- ggplot_build(p)$data[[1]]
+  y_vals <- mapply(
+    function(topic, t) {
+      mean(as.numeric(plot_dat[plot_dat$group == topic & plot_dat$x == t, 
+                             c("ymin", "ymax")]))
+    }, 
+    1:fit$K, times[max_times])
+  p <- p + annotate("text", x = times[max_times], y = y_vals, label = 1:fit$K)
+  return(p)
+}
+

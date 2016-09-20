@@ -87,13 +87,21 @@ nyphil_ctot$vocab <- composers_unique
 source('~/Documents/Projects/TopicModel/topicmodel/posterior_stats.R')
 
 nyphil_ctot <- ctot(composers = composers, conductors = conductors, dates = dates,
-                    K = c(10, 20, 30), iter = 200)
+                    K = c(40, 50, 60), iter = 200)
+nyphil_ctot <- ctot(composers = composers, conductors = conductors, dates = dates,
+                    K = c(20), iter = 200)
+nyphil_coherences <- lapply(nyphil_ctot, function(x) coherence(x, 20))
 
-get_topics(nyphil_ctot[[2]], 15)
+get_topics(nyphil_ctot[[1]], 15)
 
 apply(nyphil_ctot[[2]]$psi, 2, function(psi) {
   curve(dbeta(x, shape1 = psi[1], shape2 = psi[2]), add = TRUE)
 })
+
+foo <- mapply(FUN = function(x, y) {
+    dbeta(seq(from = 0, to = 1, by =.01), x, y)    
+  }, nyphil_ctot[[2]]$psi[1,], nyphil_ctot[[2]]$psi[2,])
+
 
 curve(dbeta(x, shape1 = nyphil_ctot[[2]]$psi[1, 5], shape2 = nyphil_ctot[[2]]$psi[2, 5]), add = FALSE)
 
