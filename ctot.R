@@ -1,4 +1,5 @@
 Rcpp::sourceCpp("ctot.cpp")
+Rcpp::sourceCpp("ctot_stats.cpp")
 library(ggplot2)
 library(plyr)
 library(directlabels)
@@ -54,10 +55,10 @@ coherence <- function(fit , M) {
   calc_coherence(fit, topic_mat)
 }
 
-get_topics <- function(fit, K) {
-  term_score <- term_score(fit)
+get_topics <- function(fit, K, topics = 1:fit$K) {
+  term_score <- term_score(fit$beta)
   vocab_mat <- matrix(data=fit$vocab, nrow=length(fit$vocab), K)
-  apply(term_score, 2, function(x) {
+  apply(as.matrix(term_score[,topics]), 2, function(x) {
     vocab_mat[order(x)[1:K]]
   })
 }

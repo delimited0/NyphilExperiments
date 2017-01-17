@@ -4,6 +4,7 @@ library(RWeka)
 
 load("programs.RData")
 
+## topic modeling ----
 unique_composer_names <- unique(Reduce(c, Map(function(x) x$composerName, programs$works)))
 unique_composer_names <- unique_composer_names[!is.na(unique_composer_names)]
 unique_composer_names <- str_replace_all(unique_composer_names, "\\s+", " ")
@@ -22,7 +23,7 @@ works = works[program_lengths > 0]
 works_docs <- Corpus(VectorSource(works))
 works_dtm <- DocumentTermMatrix(works_docs)
 
-## topic modeling ----
+
 library(topicmodels)
 
 num_topics <- seq(from=5, to=50, by=5)
@@ -87,12 +88,12 @@ nyphil_ctot$vocab <- composers_unique
 source('~/Documents/Projects/TopicModel/topicmodel/posterior_stats.R')
 
 nyphil_ctot <- ctot(composers = composers, conductors = conductors, dates = dates,
-                    K = c(40, 50, 60), iter = 200)
+                    K = c(40, 50, 60, 70), iter = 300)
 nyphil_ctot <- ctot(composers = composers, conductors = conductors, dates = dates,
                     K = c(20), iter = 200)
 nyphil_coherences <- lapply(nyphil_ctot, function(x) coherence(x, 20))
 
-get_topics(nyphil_ctot[[1]], 15)
+get_topics(nyphil_ctot[[4]], 15)
 
 apply(nyphil_ctot[[2]]$psi, 2, function(psi) {
   curve(dbeta(x, shape1 = psi[1], shape2 = psi[2]), add = TRUE)

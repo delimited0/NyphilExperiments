@@ -1,9 +1,8 @@
 #include "util.h"
 
 // [[Rcpp::export]]
-NumericMatrix term_score(List lda) {
+NumericMatrix term_score(NumericMatrix beta) {
   // calculate term score (Blei and Lafferty 2009)
-  NumericMatrix beta = lda["beta"];
   int W = beta.rows();
   int K = beta.cols();
   NumericMatrix term_score(W, K);
