@@ -41,6 +41,10 @@ pair_count <- program_tbl %>% pairwise_count(item = composerName, feature = prog
 composer_dict <- distinct(program_tbl, composerName)
 program_tbl %<>% mutate(composerID = match(composerName, composer_dict$composerName))
 
-btm <- btm_gibbs(program_tbl$composerID[1:16], program_tbl$programID[1:16], 5, .1, .01, 0)
+composer_btm <- btm(program_tbl$composerName, program_tbl$programID, K = 30)
+
+get_topics(composer_btm, 20)
+
+coherence(composer_btm, 20)
 
 
