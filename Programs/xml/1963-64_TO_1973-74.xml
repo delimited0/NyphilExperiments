@@ -1448,7 +1448,6 @@
             <work ID="53764*1">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>CONCERTO, HARP, OP. 4, NO. 6, B FLAT MAJOR</workTitle>
-                <movement>Andante-Allegro</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
                 <soloists>
                     <soloist>
@@ -1507,7 +1506,6 @@
             <work ID="8839*2">
                 <composerName>Rossini,  Gioachino</composerName>
                 <workTitle>WILLIAM TELL</workTitle>
-                <movement>Overture</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
                 <soloists>
                     <soloist>
@@ -2224,7 +2222,7 @@
             </work>
             <work ID="5031*6">
                 <composerName>Hindemith,  Paul</composerName>
-                <workTitle>KLEINE KAMMERMUSIC, WINDS (5), OP. 24, NO. 2</workTitle>
+                <workTitle>KLEINE KAMMERMUSIK, WINDS (5), OP. 24, NO. 2</workTitle>
                 <movement>Excerpts</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
@@ -2958,7 +2956,7 @@
         <worksInfo>
             <work ID="51289*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <conductorName>Szell, George</conductorName>
             </work>
             <work ID="51876*">
@@ -4373,7 +4371,7 @@
         </concertInfo>
         <worksInfo>
             <work ID="64*">
-                <composerName>Sullivan,  Arthur  Seymour</composerName>
+                <composerName>Sullivan,  Sir  Arthur  Seymour</composerName>
                 <workTitle>OVERTURE, <em>DI BALLO</em></workTitle>
                 <conductorName>Sargent, Malcolm</conductorName>
             </work>
@@ -4383,7 +4381,7 @@
                 <conductorName>Sargent, Malcolm</conductorName>
             </work>
             <work ID="69*1">
-                <composerName>Sullivan,  Arthur  Seymour</composerName>
+                <composerName>Sullivan,  Sir  Arthur  Seymour</composerName>
                 <workTitle>YEOMEN OF THE GUARD, THE</workTitle>
                 <movement>"Though Tear and Long-Drawn Sigh," Elise</movement>
                 <conductorName>Sargent, Malcolm</conductorName>
@@ -4396,7 +4394,7 @@
                 </soloists>
             </work>
             <work ID="3126*5">
-                <composerName>Sullivan,  Arthur  Seymour</composerName>
+                <composerName>Sullivan,  Sir  Arthur  Seymour</composerName>
                 <workTitle>MIKADO, THE</workTitle>
                 <movement>The Moon and I</movement>
                 <conductorName>Sargent, Malcolm</conductorName>
@@ -4455,19 +4453,19 @@
             <work ID="1930*1">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
-                <movement>Mars, the Bringer of War (Allegro)</movement>
+                <movement>Mars, the Bringer of War</movement>
                 <conductorName>Sargent, Malcolm</conductorName>
             </work>
             <work ID="1930*2">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
-                <movement>Venus, the Bringer of Peace (Adagio)</movement>
+                <movement>Venus, the Bringer of Peace</movement>
                 <conductorName>Sargent, Malcolm</conductorName>
             </work>
             <work ID="1930*4">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
-                <movement>Jupiter, the Bringer of Jollity (Allegro giocoso)</movement>
+                <movement>Jupiter, the Bringer of Jollity</movement>
                 <conductorName>Sargent, Malcolm</conductorName>
             </work>
         </worksInfo>
@@ -8435,49 +8433,6 @@
             <Time>8:30PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="51648*1">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SYMPHONY NO. 36, C MAJOR, K.425, "LINZ"</workTitle>
-                <movement>Adagio - Allegro spiritoso</movement>
-                <conductorName>Wyss, Niklaus</conductorName>
-            </work>
-            <work ID="52389*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>LEONORE OVERTURE NO. 3, OP. 72B</workTitle>
-                <conductorName>De Waart, Edo</conductorName>
-            </work>
-            <work ID="51591*3">
-                <composerName>Ravel,  Maurice</composerName>
-                <workTitle>RAPSODIE ESPAGNOLE</workTitle>
-                <movement>Habanera (Piece in the Style of Havana)</movement>
-                <conductorName>Smith, Lawrence Leighton</conductorName>
-            </work>
-            <work ID="51591*4">
-                <composerName>Ravel,  Maurice</composerName>
-                <workTitle>RAPSODIE ESPAGNOLE</workTitle>
-                <movement>Feria (Festival)</movement>
-                <conductorName>Smith, Lawrence Leighton</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="2819*1">
-                <composerName>Schubert,  Franz</composerName>
-                <workTitle>SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)</workTitle>
-                <movement>Allegro moderato</movement>
-                <conductorName>DePreist, James</conductorName>
-            </work>
-            <work ID="51884*4">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
-                <movement>Allegro energico e passionato – Pi</movement>
-                <conductorName>Houtmann, Jacques</conductorName>
-            </work>
-            <work ID="51660*">
-                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
-                <workTitle>RUSSIAN EASTER OVERTURE, OP. 36</workTitle>
-                <conductorName>Del Carmen, Ricardo</conductorName>
-            </work>
         </worksInfo>
     </program>
     <program>
@@ -8897,6 +8852,51 @@
         </worksInfo>
     </program>
     <program>
+        <id>29e61ebd-9d2a-41c6-8094-5335854772ca</id>
+        <programID>7109</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1964-65</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1965-01-23T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52626*">
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>SCHOOL FOR SCANDAL OVERTURE</workTitle>
+                <conductorName>Schippers, Thomas</conductorName>
+            </work>
+            <work ID="52618*">
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>ESSAY NO. 2, OP.17</workTitle>
+                <conductorName>Schippers, Thomas</conductorName>
+            </work>
+            <work ID="3181*">
+                <composerName>Chopin,  Frédéric</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, F MINOR, OP. 21</workTitle>
+                <conductorName>Schippers, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Watts, Andre (André)</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52440*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 4 IN B FLAT MAJOR, OP.60</workTitle>
+                <conductorName>Schippers, Thomas</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>ee25cf77-4081-4594-a2b8-820142721e7e</id>
         <programID>4129</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -8950,17 +8950,10 @@
         </worksInfo>
     </program>
     <program>
-        <id>29e61ebd-9d2a-41c6-8094-5335854772ca</id>
-        <programID>7109</programID>
+        <id>cb5928ef-fda8-45cc-8e36-67e1e852444c</id>
+        <programID>14011</programID>
         <orchestra>New York Philharmonic</orchestra>
         <season>1964-65</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1965-01-23T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
         <concertInfo>
             <eventType>Subscription Season</eventType>
             <Location>Manhattan, NY</Location>
@@ -8969,6 +8962,12 @@
             <Time>3:00PM</Time>
         </concertInfo>
         <worksInfo>
+            <work ID="50296*10">
+                <composerName>Elgar,  Sir  Edward</composerName>
+                <workTitle>ENIGMA VARIATIONS, OP. 36</workTitle>
+                <movement>IX. (Nimrod)</movement>
+                <conductorName>Schippers, Thomas</conductorName>
+            </work>
             <work ID="52626*">
                 <composerName>Barber,  Samuel</composerName>
                 <workTitle>SCHOOL FOR SCANDAL OVERTURE</workTitle>
@@ -9872,7 +9871,7 @@
         <worksInfo>
             <work ID="2451*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)</workTitle>
+                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048</workTitle>
                 <conductorName>Maazel, Lorin</conductorName>
             </work>
             <work ID="3685*">
@@ -9912,7 +9911,7 @@
         <worksInfo>
             <work ID="2451*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)</workTitle>
+                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048</workTitle>
                 <conductorName>Maazel, Lorin</conductorName>
             </work>
             <work ID="51880*">
@@ -10304,7 +10303,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lang, Morris</soloistName>
+                        <soloistName>Lang, Morris "Arnie"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -11132,7 +11131,7 @@
             </work>
             <work ID="51289*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="8336*11">
@@ -14374,7 +14373,7 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="6455*">
-                <composerName>Ellington,  Edward  Kennedy "Duke"</composerName>
+                <composerName>Ellington,  Duke</composerName>
                 <workTitle>NEW WORLD A'COMING</workTitle>
                 <conductorName>Ellington, Duke</conductorName>
                 <soloists>
@@ -14396,7 +14395,7 @@
                 </soloists>
             </work>
             <work ID="6464*">
-                <composerName>Ellington,  Edward  Kennedy "Duke"</composerName>
+                <composerName>Ellington,  Duke</composerName>
                 <workTitle>GOLDEN BROOM AND THE GREEN APPLE, THE</workTitle>
                 <conductorName>Ellington, Duke</conductorName>
                 <soloists>
@@ -14487,7 +14486,7 @@
                 </soloists>
             </work>
             <work ID="6565*">
-                <composerName>Ellington,  Edward  Kennedy "Duke"</composerName>
+                <composerName>Ellington,  Duke</composerName>
                 <workTitle>SATIN DOLL</workTitle>
                 <conductorName>Ellington, Duke</conductorName>
                 <soloists>
@@ -14504,7 +14503,7 @@
                 </soloists>
             </work>
             <work ID="6464*">
-                <composerName>Ellington,  Edward  Kennedy "Duke"</composerName>
+                <composerName>Ellington,  Duke</composerName>
                 <workTitle>GOLDEN BROOM AND THE GREEN APPLE, THE</workTitle>
                 <conductorName>Ellington, Duke</conductorName>
                 <soloists>
@@ -14713,7 +14712,7 @@
             <work ID="52461*4">
                 <composerName>Beethoven,  Ludwig  van</composerName>
                 <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
-                <movement>Presto – Recitativo "O Freunde, nicht diese Töne" -- Allegro assai</movement>
+                <movement>Presto — Recitativo: "O Freunde, nicht diese Töne" — Allegro assai</movement>
                 <conductorName>Steinberg, William</conductorName>
                 <soloists>
                     <soloist>
@@ -15342,7 +15341,7 @@
             <work ID="52461*4">
                 <composerName>Beethoven,  Ludwig  van</composerName>
                 <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
-                <movement>Presto – Recitativo "O Freunde, nicht diese Töne" -- Allegro assai</movement>
+                <movement>Presto — Recitativo: "O Freunde, nicht diese Töne" — Allegro assai</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
                 <soloists>
                     <soloist>
@@ -16347,7 +16346,7 @@
                 <conductorName>Steinberg, William</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>De Larrocha, Alicia</soloistName>
+                        <soloistName>de Larrocha, Alicia</soloistName>
                         <soloistInstrument>Piano</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -16519,7 +16518,7 @@
         <worksInfo>
             <work ID="51816*1">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 10 IN F SHARP MAJOR (ARR. Krenek)</workTitle>
+                <workTitle>SYMPHONY NO. 10 IN F SHARP MAJOR (KRENEK)</workTitle>
                 <movement>Andante - Adagio</movement>
                 <conductorName>Caduff, Sylvia</conductorName>
             </work>
@@ -18998,7 +18997,7 @@
             <work ID="51194*4">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
                 <workTitle>EXSULTATE JUBILATE, K.158A (OLD K.165)</workTitle>
-                <movement>Alleluja (Allegro)</movement>
+                <movement>Alleluja [Allegro]</movement>
                 <conductorName>Kostelanetz, Andre</conductorName>
                 <soloists>
                     <soloist>
@@ -19249,7 +19248,7 @@
             <work ID="51194*4">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
                 <workTitle>EXSULTATE JUBILATE, K.158A (OLD K.165)</workTitle>
-                <movement>Alleluja (Allegro)</movement>
+                <movement>Alleluja [Allegro]</movement>
                 <conductorName>Kostelanetz, Andre</conductorName>
                 <soloists>
                     <soloist>
@@ -19380,7 +19379,7 @@
             <work ID="51194*4">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
                 <workTitle>EXSULTATE JUBILATE, K.158A (OLD K.165)</workTitle>
-                <movement>Alleluja (Allegro)</movement>
+                <movement>Alleluja [Allegro]</movement>
                 <conductorName>Kostelanetz, Andre</conductorName>
                 <soloists>
                     <soloist>
@@ -21372,59 +21371,7 @@
             <work ID="6163*">
                 <composerName>Stravinsky,  Igor</composerName>
                 <workTitle>L'HISTOIRE DU SOLDAT (COMPLETE)</workTitle>
-                <conductorName>Foss, Lukas</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Copland, Aaron</soloistName>
-                        <soloistInstrument>Narrator</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Cage, John</soloistName>
-                        <soloistInstrument>Speaker</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Carter, Elliott</soloistName>
-                        <soloistInstrument>Speaker</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Laredo, Jaime</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Russo, Charles</soloistName>
-                        <soloistInstrument>Clarinet</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Nakagawa, Ryohei</soloistName>
-                        <soloistInstrument>Bassoon</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Crisara, Raymond</soloistName>
-                        <soloistInstrument>Trumpet</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Small, Charles</soloistName>
-                        <soloistInstrument>Trombone</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Neidlinger, Buell</soloistName>
-                        <soloistInstrument>Contrabass</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Desroches, Raymond</soloistName>
-                        <soloistInstrument>Percussion</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
+                <conductorName>Dufallo, Richard (John);  Foss, Lukas</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -22706,211 +22653,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>393d2944-1a8a-43a8-945a-9ce3f207734e</id>
-        <programID>10743</programID>
-        <orchestra>Members of NY Philharmonic</orchestra>
-        <season>1966-67</season>
-        <concertInfo>
-            <eventType>Special</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1966-10-22T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="9007*17">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
-                <movement>Prelude to Act I</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-            </work>
-            <work ID="8957*8">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>MARRIAGE OF FIGARO, THE, K.492</workTitle>
-                <movement>"Non pi</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Tozzi, Giorgio</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="8838*2">
-                <composerName>Bellini,  Vincenzo</composerName>
-                <workTitle>I PURITANI</workTitle>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Tucci, Gabriella</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="1890*5">
-                <composerName>Massenet,  Jules</composerName>
-                <workTitle>MANON</workTitle>
-                <movement>Elvira (aria): "Qui la voce...Vien, diletto"</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gedda, Nicolai</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="53664*3">
-                <composerName>Ponchielli,  Amilcare</composerName>
-                <workTitle>GIOCONDA, LA</workTitle>
-                <conductorName>Antonini, Alfredo</conductorName>
-            </work>
-            <work ID="8963*5">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>EUGENE ONEGIN, OP. 24</workTitle>
-                <movement>Dance of the Hours</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gedda, Nicolai</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="1664*1">
-                <composerName>Puccini,  Giacomo</composerName>
-                <workTitle>TURANDOT</workTitle>
-                <movement>Act I, Scene 1 - Arioso de Linski</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Tucci, Gabriella</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="1664*4">
-                <composerName>Puccini,  Giacomo</composerName>
-                <workTitle>TURANDOT</workTitle>
-                <movement>"Signore, ascolta!" Liu (aria), Act I</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Tucci, Gabriella</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="52071*2">
-                <composerName>Verdi,  Giuseppe</composerName>
-                <workTitle>DON CARLO</workTitle>
-                <movement>"Tu che di gel sei cinta," Liu (aria), Act III</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Tozzi, Giorgio</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="50534*8">
-                <composerName>Gounod,  Charles</composerName>
-                <workTitle>FAUST: BALLET MUSIC</workTitle>
-                <movement>"Ella giammai m’amò," King Philip II (aria), Act IV</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-            </work>
-            <work ID="2856*15">
-                <composerName>Gounod,  Charles</composerName>
-                <workTitle>FAUST</workTitle>
-                <movement>Excerpts unspecified</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Tozzi, Giorgio</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Gedda, Nicolai</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="2856*14">
-                <composerName>Gounod,  Charles</composerName>
-                <workTitle>FAUST</workTitle>
-                <movement>"A moi les plaisirs" (duet)</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gedda, Nicolai</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="2856*1">
-                <composerName>Gounod,  Charles</composerName>
-                <workTitle>FAUST</workTitle>
-                <movement>"Salut demeure" (aria)</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Tucci, Gabriella</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="2856*7">
-                <composerName>Gounod,  Charles</composerName>
-                <workTitle>FAUST</workTitle>
-                <movement>"Je ris de me voir" ("Jewel Song")</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Tozzi, Giorgio</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="2856*5">
-                <composerName>Gounod,  Charles</composerName>
-                <workTitle>FAUST</workTitle>
-                <movement>"Vous qui faites l'endormie," Méphistophélès (serenade)</movement>
-                <conductorName>Antonini, Alfredo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gedda, Nicolai</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Tozzi, Giorgio</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Tucci, Gabriella</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>56a55f13-1540-4218-88a6-5ec4cfd4c6d3</id>
         <programID>5306</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -22954,6 +22696,21 @@
                 <movement>Allegro</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>393d2944-1a8a-43a8-945a-9ce3f207734e</id>
+        <programID>10743</programID>
+        <orchestra>Members of NY Philharmonic</orchestra>
+        <season>1966-67</season>
+        <concertInfo>
+            <eventType>Special</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1966-10-22T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
         </worksInfo>
     </program>
     <program>
@@ -23101,6 +22858,7 @@
             <work ID="52364*1">
                 <composerName>Beethoven,  Ludwig  van</composerName>
                 <workTitle>EGMONT, OP.84</workTitle>
+                <movement>Overture</movement>
                 <conductorName>Maazel, Lorin</conductorName>
             </work>
             <work ID="2068*">
@@ -29608,7 +29366,7 @@
             <work ID="51306*28">
                 <composerName>Berlioz,  Hector</composerName>
                 <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>"Oh! Qu’il fait bon!" Chorus/Brander</movement>
+                <movement>"Oh! Qu'il fait bon!" Chorus/Brander</movement>
                 <conductorName>Steinberg, William</conductorName>
                 <soloists>
                     <soloist>
@@ -29626,7 +29384,7 @@
             <work ID="51306*27">
                 <composerName>Berlioz,  Hector</composerName>
                 <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>"Certain rat, dans une cuisine...Amen!" (Brander’s Song/Fugue on Brander's Song), Brander and Chorus</movement>
+                <movement>"Certain rat, dans une cuisine...Amen!" (Brander's Song/Fugue on Brander's Song), Brander and Chorus</movement>
                 <conductorName>Steinberg, William</conductorName>
                 <soloists>
                     <soloist>
@@ -29663,7 +29421,7 @@
             <work ID="51306*77">
                 <composerName>Berlioz,  Hector</composerName>
                 <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>"Merci, doux crepuscule!" (Faust’s Aria), Faust (aria)</movement>
+                <movement>"Merci, doux crepuscule!" (Faust's Aria), Faust (aria)</movement>
                 <conductorName>Steinberg, William</conductorName>
                 <soloists>
                     <soloist>
@@ -29734,7 +29492,7 @@
             <work ID="51306*211">
                 <composerName>Berlioz,  Hector</composerName>
                 <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>"Laus! Laus! Hosanna!...Remonte au ciel (Margarita’s Glorification), Chorus</movement>
+                <movement>"Laus! Laus! Hosanna!...Remonte au ciel (Margarita's Glorification), Chorus</movement>
                 <conductorName>Steinberg, William</conductorName>
                 <soloists>
                     <soloist>
@@ -31020,85 +30778,6 @@
             <Time>2:30PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="51870*4">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 1 IN C MINOR, OP. 68</workTitle>
-                <movement>Adagio – Pi</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="8957*1">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>MARRIAGE OF FIGARO, THE, K.492</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="53732*1">
-                <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>SYMPHONY NO. 1, OP. 25 (CLASSICAL)</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="6743*">
-                <composerName>Demonstration,</composerName>
-                <workTitle>MISCELLANEOUS</workTitle>
-                <movement>Allegro con brio</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="51475*2">
-                <composerName>Bizet,  Georges</composerName>
-                <workTitle>CARMEN SUITE NO. 2</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="3261*">
-                <composerName>Strauss,  Johann, II</composerName>
-                <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
-                <movement>Habanera. Allegretto quasi Allegretto (Act I)</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="7837*9">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>ROSENKAVALIER, DER, OP. 59</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="9639*1">
-                <composerName>McCartney,  Sir  Paul</composerName>
-                <workTitle>HEARD THE NEWS TODAY, OH BOY</workTitle>
-                <movement>Waltz (Unspecified)</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="50014*8">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>NUTCRACKER, THE: SUITE, OP. 71A</workTitle>
-                <movement>excerpt</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="52461*6">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
-                <movement>Waltz of the Flowers</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="9640*">
-                <composerName>Rozsa [Rózsa],  Miklós</composerName>
-                <workTitle>DANGER AHEAD/DRAGNET THEME (ARR. Schumann)</workTitle>
-                <movement>Excerpts from Mvt. II: Molto vivace</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="6743*">
-                <composerName>Demonstration,</composerName>
-                <workTitle>MISCELLANEOUS</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="51651*4">
-                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
-                <workTitle>CAPRICCIO ESPAGNOL, OP. 34</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="51651*5">
-                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
-                <workTitle>CAPRICCIO ESPAGNOL, OP. 34</workTitle>
-                <movement>Scena e canto gitano (Scene and Gypsy Song) (Allegretto)</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
         </worksInfo>
     </program>
     <program>
@@ -31138,7 +30817,7 @@
             <work ID="50709*4">
                 <composerName>Ives,  Charles</composerName>
                 <workTitle>HOLIDAYS SYMPHONY</workTitle>
-                <movement>"Thanksgiving and Forefathers’ Day"</movement>
+                <movement>"Thanksgiving and Forefathers' Day"</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
                 <soloists>
                     <soloist>
@@ -31878,7 +31557,7 @@
             </work>
             <work ID="5353*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 10 IN F SHARP MAJOR (ARR. Cooke)</workTitle>
+                <workTitle>SYMPHONY NO. 10 IN F SHARP MAJOR (COOKE)</workTitle>
                 <conductorName>Steinberg, William</conductorName>
             </work>
         </worksInfo>
@@ -35964,7 +35643,7 @@
         <worksInfo>
             <work ID="2451*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)</workTitle>
+                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048</workTitle>
                 <conductorName>Davis, Colin</conductorName>
             </work>
             <work ID="53754*">
@@ -36877,7 +36556,7 @@
             <work ID="51370*1">
                 <composerName>Berlioz,  Hector</composerName>
                 <workTitle>SYMPHONIE FANTASTIQUE, OP.14</workTitle>
-                <movement>Reveries, Passions (Rèveries, passions): Allegro agitato e appassionato assai -- Religiosamente</movement>
+                <movement>Reveries, Passions (Rêveries — Passions): Allegro agitato e appassionato assai -- Religiosamente</movement>
                 <conductorName>Zearott, Michael</conductorName>
             </work>
             <work ID="3417*2">
@@ -40075,19 +39754,19 @@
             <work ID="1930*2">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
-                <movement>Venus, the Bringer of Peace (Adagio)</movement>
+                <movement>Venus, the Bringer of Peace</movement>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="1930*3">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
-                <movement>Mercury, the Winged Messenger (Vivace)</movement>
+                <movement>Mercury, the Winged Messenger</movement>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="1930*4">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
-                <movement>Jupiter, the Bringer of Jollity (Allegro giocoso)</movement>
+                <movement>Jupiter, the Bringer of Jollity</movement>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="0*">
@@ -42061,7 +41740,7 @@
                 <conductorName>Ozawa, Seiji</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>De Larrocha, Alicia</soloistName>
+                        <soloistName>de Larrocha, Alicia</soloistName>
                         <soloistInstrument>Piano</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -44912,7 +44591,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Bailey, Elden</soloistName>
+                        <soloistName>Bailey, Elden "Buster"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -45001,12 +44680,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>  </soloistName>
-                        <soloistInstrument>Bassoon</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bailey, Elden</soloistName>
+                        <soloistName>Bailey, Elden "Buster"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -46583,7 +46257,7 @@
                 <conductorName>Fruhbeck de Burgos, Rafael</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>De Larrocha, Alicia</soloistName>
+                        <soloistName>de Larrocha, Alicia</soloistName>
                         <soloistInstrument>Piano</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -46595,7 +46269,7 @@
                 <conductorName>Fruhbeck de Burgos, Rafael</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>De Larrocha, Alicia</soloistName>
+                        <soloistName>de Larrocha, Alicia</soloistName>
                         <soloistInstrument>Piano</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -52251,12 +51925,12 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Bailey, Elden</soloistName>
+                        <soloistName>Bailey, Elden "Buster"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lang, Morris</soloistName>
+                        <soloistName>Lang, Morris "Arnie"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -52488,7 +52162,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -52931,12 +52605,12 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Bailey, Elden</soloistName>
+                        <soloistName>Bailey, Elden "Buster"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lang, Morris</soloistName>
+                        <soloistName>Lang, Morris "Arnie"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -52975,12 +52649,12 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Bailey, Elden</soloistName>
+                        <soloistName>Bailey, Elden "Buster"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lang, Morris</soloistName>
+                        <soloistName>Lang, Morris "Arnie"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -53560,50 +53234,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>497fbee3-2baa-4b92-a30c-34a83d2d9c34</id>
-        <programID>5575</programID>
-        <orchestra>NYP Presentation</orchestra>
-        <season>1971-72</season>
-        <concertInfo>
-            <eventType>Pre-Concert Recital</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1971-12-02T05:00:00Z</Date>
-            <Time>7:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Pre-Concert Recital</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1971-12-03T05:00:00Z</Date>
-            <Time>1:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="4168*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>PRELUDE AND FUGUE ON B-A-C-H</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Newman, Anthony</soloistName>
-                        <soloistInstrument>Organ</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="4171*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>FANTASY AND FUGUE ON THE CHORALE "AD NOS, AD SALUTAREM UNDAM"</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Newman, Anthony</soloistName>
-                        <soloistInstrument>Organ</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>a8ba0b37-89b0-4f9a-884c-4fc0f6265404</id>
         <programID>3769</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -53661,6 +53291,50 @@
                 <composerName>Shostakovich,  Dmitri</composerName>
                 <workTitle>SYMPHONY NO.  1, OP. 10</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>497fbee3-2baa-4b92-a30c-34a83d2d9c34</id>
+        <programID>5575</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>1971-72</season>
+        <concertInfo>
+            <eventType>Pre-Concert Recital</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1971-12-02T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Pre-Concert Recital</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1971-12-03T05:00:00Z</Date>
+            <Time>1:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="4168*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>PRELUDE AND FUGUE ON B-A-C-H</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Newman, Anthony</soloistName>
+                        <soloistInstrument>Organ</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="4171*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>FANTASY AND FUGUE ON THE CHORALE "AD NOS, AD SALUTAREM UNDAM"</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Newman, Anthony</soloistName>
+                        <soloistInstrument>Organ</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -54205,6 +53879,61 @@
         </worksInfo>
     </program>
     <program>
+        <id>c64f9b3a-2cfe-4c9b-be6b-53c4a512d3d5</id>
+        <programID>4529</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1971-72</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1972-01-21T05:00:00Z</Date>
+            <Time>1:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="4200*">
+                <composerName>Vivaldi,  Antonio</composerName>
+                <workTitle>CONCERTO, MANDOLINS (2), G MAJOR, RV 532</workTitle>
+                <conductorName>Maderna, Bruno</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bolotine, Leonid</soloistName>
+                        <soloistInstrument>Mandolin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Glick, Jacob</soloistName>
+                        <soloistInstrument>Mandolin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51144*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>ORPHEUS (SYMPHONIC POEM NO. 4)</workTitle>
+                <conductorName>Maderna, Bruno</conductorName>
+            </work>
+            <work ID="52575*1">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
+                <movement>Andante con moto – Allegro un poco agitato</movement>
+                <conductorName>Maderna, Bruno</conductorName>
+            </work>
+            <work ID="52575*2">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
+                <movement>Vivace non troppo</movement>
+                <conductorName>Maderna, Bruno</conductorName>
+            </work>
+            <work ID="52575*4">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
+                <movement>Allegro vivacissimo – Allegro maestoso assai</movement>
+                <conductorName>Maderna, Bruno</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>e0b22c34-73c4-491e-9db5-4167ab2ce202</id>
         <programID>2811</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -54380,61 +54109,6 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>c64f9b3a-2cfe-4c9b-be6b-53c4a512d3d5</id>
-        <programID>4529</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1971-72</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1972-01-21T05:00:00Z</Date>
-            <Time>1:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="4200*">
-                <composerName>Vivaldi,  Antonio</composerName>
-                <workTitle>CONCERTO, MANDOLINS (2), G MAJOR, RV 532</workTitle>
-                <conductorName>Maderna, Bruno</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Bolotine, Leonid</soloistName>
-                        <soloistInstrument>Mandolin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Glick, Jacob</soloistName>
-                        <soloistInstrument>Mandolin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51144*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>ORPHEUS (SYMPHONIC POEM NO. 4)</workTitle>
-                <conductorName>Maderna, Bruno</conductorName>
-            </work>
-            <work ID="52575*1">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
-                <movement>Andante con moto – Allegro un poco agitato</movement>
-                <conductorName>Maderna, Bruno</conductorName>
-            </work>
-            <work ID="52575*2">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
-                <movement>Vivace non troppo</movement>
-                <conductorName>Maderna, Bruno</conductorName>
-            </work>
-            <work ID="52575*4">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
-                <movement>Allegro vivacissimo – Allegro maestoso assai</movement>
-                <conductorName>Maderna, Bruno</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -54902,7 +54576,7 @@
                 <conductorName>Boulez, Pierre</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>De Larrocha, Alicia</soloistName>
+                        <soloistName>de Larrocha, Alicia</soloistName>
                         <soloistInstrument>Piano</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -55069,6 +54743,37 @@
             <Time>7:30PM</Time>
         </concertInfo>
         <worksInfo>
+            <work ID="51242*">
+                <composerName>Berg,  Alban</composerName>
+                <workTitle>LYRIC SUITE (SEVEN MOVEMENTS FOR STRING QUARTET)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Galimir String Quartet</soloistName>
+                        <soloistInstrument>String Quartet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Galimir, Felix</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Yajima, Hiroko</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Graham, John</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Sherry, Fred</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
         </worksInfo>
     </program>
     <program>
@@ -55217,7 +54922,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -55302,7 +55007,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -55482,7 +55187,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -56047,6 +55752,17 @@
             <Time>7:30PM</Time>
         </concertInfo>
         <worksInfo>
+            <work ID="4287*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>HISTORICAL HUNGARIAN PORTRAITS</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Watts, Andre (André)</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
         </worksInfo>
     </program>
     <program>
@@ -56364,7 +56080,7 @@
             </work>
             <work ID="50902*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>UN BACIO DI MANO, K.541</workTitle>
+                <workTitle>UN BACCIO DI MANO, K.541</workTitle>
                 <conductorName>Maazel, Lorin</conductorName>
                 <soloists>
                     <soloist>
@@ -56635,7 +56351,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -59434,7 +59150,7 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -61003,7 +60719,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lang, Morris</soloistName>
+                        <soloistName>Lang, Morris "Arnie"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -61042,7 +60758,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lang, Morris</soloistName>
+                        <soloistName>Lang, Morris "Arnie"</soloistName>
                         <soloistInstrument>Vibraphone</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -61135,12 +60851,12 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Bailey, Elden</soloistName>
+                        <soloistName>Bailey, Elden "Buster"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lang, Morris</soloistName>
+                        <soloistName>Lang, Morris "Arnie"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -62041,7 +61757,7 @@
         <worksInfo>
             <work ID="51289*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="8901*">
@@ -62093,7 +61809,7 @@
         <worksInfo>
             <work ID="51289*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="8901*">
@@ -62376,7 +62092,7 @@
             <work ID="2847*1">
                 <composerName>Schumann,  Robert</composerName>
                 <workTitle>CONCERTO, CELLO, A MINOR, OP.129</workTitle>
-                <movement>Not too fast</movement>
+                <movement>Nicht zu schnell (Not too fast)</movement>
                 <conductorName>Boulez, Pierre</conductorName>
                 <soloists>
                     <soloist>
@@ -62719,7 +62435,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -63233,7 +62949,7 @@
             </work>
             <work ID="51289*1">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <movement>Allegro</movement>
                 <conductorName>Thompson, Leon</conductorName>
                 <soloists>
@@ -63826,19 +63542,19 @@
             <work ID="1930*2">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
-                <movement>Venus, the Bringer of Peace (Adagio)</movement>
+                <movement>Venus, the Bringer of Peace</movement>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="1930*3">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
-                <movement>Mercury, the Winged Messenger (Vivace)</movement>
+                <movement>Mercury, the Winged Messenger</movement>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="1930*4">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
-                <movement>Jupiter, the Bringer of Jollity (Allegro giocoso)</movement>
+                <movement>Jupiter, the Bringer of Jollity</movement>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="1906*">
@@ -64109,13 +63825,13 @@
             </work>
             <work ID="51289*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="51194*4">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
                 <workTitle>EXSULTATE JUBILATE, K.158A (OLD K.165)</workTitle>
-                <movement>Alleluja (Allegro)</movement>
+                <movement>Alleluja [Allegro]</movement>
                 <conductorName>Kostelanetz, Andre</conductorName>
                 <soloists>
                     <soloist>
@@ -64327,7 +64043,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lang, Morris</soloistName>
+                        <soloistName>Lang, Morris "Arnie"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -65114,7 +64830,7 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lang, Morris</soloistName>
+                        <soloistName>Lang, Morris "Arnie"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -67370,13 +67086,13 @@
             <work ID="51370*4">
                 <composerName>Berlioz,  Hector</composerName>
                 <workTitle>SYMPHONIE FANTASTIQUE, OP.14</workTitle>
-                <movement>March to the Scaffold (Marche au supplice): Allegretto non troppo</movement>
+                <movement>March to the Scaffold (Marche au Supplice): Allegretto non troppo</movement>
                 <conductorName>Thompson, Leon</conductorName>
             </work>
             <work ID="51370*5">
                 <composerName>Berlioz,  Hector</composerName>
                 <workTitle>SYMPHONIE FANTASTIQUE, OP.14</workTitle>
-                <movement>Dream of a Witches' Sabbath (Songe d'une nuit do sabbat): Larghetto -- Allegro</movement>
+                <movement>Dream of a Witches' Sabbath (Songe d'une Nuit du Sabbat): Larghetto -- Allegro</movement>
                 <conductorName>Thompson, Leon</conductorName>
             </work>
             <work ID="3453*1">
@@ -67576,7 +67292,7 @@
                 <conductorName>Leinsdorf, Erich</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>De Larrocha, Alicia</soloistName>
+                        <soloistName>de Larrocha, Alicia</soloistName>
                         <soloistInstrument>Piano</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -68000,6 +67716,107 @@
         </worksInfo>
     </program>
     <program>
+        <id>347d79b2-8818-4ed5-90e6-604787bf9892</id>
+        <programID>222</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1973-74</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>1974-04-26T04:00:00Z</Date>
+            <Time>2:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>1974-04-30T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="54069*1">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>WATER MUSIC: SUITE NO. 2 IN D MAJOR</workTitle>
+                <movement>[Allegro]</movement>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="54069*2">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>WATER MUSIC: SUITE NO. 2 IN D MAJOR</workTitle>
+                <movement>Alla Hornpipe</movement>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="54074*1">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>WATER MUSIC: SUITE NO. 3 IN G MAJOR</workTitle>
+                <movement>[Sarabande]</movement>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="54074*2">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>WATER MUSIC: SUITE NO. 3 IN G MAJOR</workTitle>
+                <movement>Rigaudon</movement>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="54069*4">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>WATER MUSIC: SUITE NO. 2 IN D MAJOR</workTitle>
+                <movement>Lentement</movement>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="54069*5">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>WATER MUSIC: SUITE NO. 2 IN D MAJOR</workTitle>
+                <movement>Bourrée</movement>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="54074*3">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>WATER MUSIC: SUITE NO. 3 IN G MAJOR</workTitle>
+                <movement>Minuet</movement>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="54074*4">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>WATER MUSIC: SUITE NO. 3 IN G MAJOR</workTitle>
+                <movement>[Gigue]</movement>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="54069*3">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>WATER MUSIC: SUITE NO. 2 IN D MAJOR</workTitle>
+                <movement>Minuet</movement>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="52429*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 1 IN C MAJOR, OP.21</workTitle>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51091*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>CONCERTO, VIOLIN NO. 3, G MAJOR, K.216</workTitle>
+                <conductorName>Boulez, Pierre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Chapo, Eliot</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="50128*">
+                <composerName>Hindemith,  Paul</composerName>
+                <workTitle>MATHIS DER MALER (SYMPHONY)</workTitle>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>e65fd02f-5868-4d7c-acd9-4cb9c0fb2dc6</id>
         <programID>3982</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -68043,7 +67860,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -68227,107 +68044,6 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>347d79b2-8818-4ed5-90e6-604787bf9892</id>
-        <programID>222</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1973-74</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>1974-04-26T04:00:00Z</Date>
-            <Time>2:00PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>1974-04-30T04:00:00Z</Date>
-            <Time>7:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="54069*1">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>WATER MUSIC: SUITE NO. 2 IN D MAJOR</workTitle>
-                <movement>[Allegro]</movement>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="54069*2">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>WATER MUSIC: SUITE NO. 2 IN D MAJOR</workTitle>
-                <movement>Alla Hornpipe</movement>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="54074*1">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>WATER MUSIC: SUITE NO. 3 IN G MAJOR</workTitle>
-                <movement>[Sarabande]</movement>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="54074*2">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>WATER MUSIC: SUITE NO. 3 IN G MAJOR</workTitle>
-                <movement>Rigaudon</movement>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="54069*4">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>WATER MUSIC: SUITE NO. 2 IN D MAJOR</workTitle>
-                <movement>Lentement</movement>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="54069*5">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>WATER MUSIC: SUITE NO. 2 IN D MAJOR</workTitle>
-                <movement>Bourrée</movement>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="54074*3">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>WATER MUSIC: SUITE NO. 3 IN G MAJOR</workTitle>
-                <movement>Minuet</movement>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="54074*4">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>WATER MUSIC: SUITE NO. 3 IN G MAJOR</workTitle>
-                <movement>[Gigue]</movement>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="54069*3">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>WATER MUSIC: SUITE NO. 2 IN D MAJOR</workTitle>
-                <movement>Minuet</movement>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="52429*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 1 IN C MAJOR, OP.21</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51091*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>CONCERTO, VIOLIN NO. 3, G MAJOR, K.216</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Chapo, Eliot</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="50128*">
-                <composerName>Hindemith,  Paul</composerName>
-                <workTitle>MATHIS DER MALER (SYMPHONY)</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -68794,23 +68510,6 @@
             <Time>2:30PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="50737*">
-                <composerName>Ives,  Charles</composerName>
-                <workTitle>VARIATIONS ON "AMERICA" (ARR. Schuman)</workTitle>
-                <conductorName>Thomas, Michael Tilson</conductorName>
-            </work>
-            <work ID="3196*4">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SUITE NO. 3, G MAJOR, OP. 55</workTitle>
-                <movement>Tema con variazioni (Andante con moto)</movement>
-                <conductorName>Thomas, Michael Tilson</conductorName>
-            </work>
-            <work ID="51884*4">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
-                <movement>Allegro energico e passionato – Pi</movement>
-                <conductorName>Thomas, Michael Tilson</conductorName>
-            </work>
         </worksInfo>
     </program>
     <program>
@@ -69134,7 +68833,7 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -70129,7 +69828,7 @@
         <worksInfo>
             <work ID="2451*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)</workTitle>
+                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048</workTitle>
                 <conductorName>Boulez, Pierre</conductorName>
             </work>
             <work ID="52771*">
@@ -70156,7 +69855,7 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lang, Morris</soloistName>
+                        <soloistName>Lang, Morris "Arnie"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -70238,7 +69937,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lang, Morris</soloistName>
+                        <soloistName>Lang, Morris "Arnie"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>

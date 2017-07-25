@@ -1166,7 +1166,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             }
@@ -2890,7 +2890,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Thompson, Leon",
           "soloists": []
         },
@@ -3074,7 +3074,7 @@
         {
           "ID": "51438*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE NO.  6, D MAJOR, K.239 \"SERENATA NOTTURNA\"",
+          "workTitle": "SERENADE NO.  6, D MAJOR, K.239, \"SERENATA NOTTURNA\"",
           "conductorName": "Kubelik, Rafael",
           "soloists": [
             {
@@ -4233,12 +4233,12 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
@@ -4292,12 +4292,12 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
@@ -6844,11 +6844,6 @@
               "soloistName": "Chapo, Eliot",
               "soloistInstrument": "Violin",
               "soloistRoles": "A"
-            },
-            {
-              "soloistName": "",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
             }
           ]
         },
@@ -8845,7 +8840,7 @@
           "conductorName": "Foster, Lawrence",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -8895,7 +8890,7 @@
           "conductorName": "Foster, Lawrence",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -11944,7 +11939,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -16380,6 +16375,20 @@
       ],
       "works": [
         {
+          "ID": "51538*",
+          "composerName": "Webern,  Anton  von",
+          "workTitle": "PASSACAGLIA, OP.1",
+          "conductorName": "Boulez, Pierre",
+          "soloists": []
+        },
+        {
+          "ID": "50759*",
+          "composerName": "Webern,  Anton  von",
+          "workTitle": "FIVE MOVEMENTS, STRING ORCHESTRA, OP.5",
+          "conductorName": "Boulez, Pierre",
+          "soloists": []
+        },
+        {
           "ID": "52874*",
           "composerName": "Mahler,  Gustav",
           "workTitle": "SYMPHONY NO.  7 IN E MINOR (SONG OF THE NIGHT)",
@@ -16431,7 +16440,10 @@
           "ID": "52882*2",
           "composerName": "Mahler,  Gustav",
           "workTitle": "SYMPHONY NO.  9 IN D MAJOR",
-          "movement": "In the tempo of a comfortable ländler, somewhat clumsy and very coarse",
+          "movement": {
+            "_": "Im Tempo eines gemächlichen Ländlers, etwas täppisch und sehr derb (In the tempo of a comfortable  somewhat clumsy and very coarse)",
+            "em": "Ländler,"
+          },
           "conductorName": "Boulez, Pierre",
           "soloists": []
         },
@@ -16439,7 +16451,7 @@
           "ID": "52882*4",
           "composerName": "Mahler,  Gustav",
           "workTitle": "SYMPHONY NO.  9 IN D MAJOR",
-          "movement": "Very slow, and even holding back",
+          "movement": "Adagio (Sehr langsam un noch zur ckhaltend) (Very slow, and even holding back)",
           "conductorName": "Boulez, Pierre",
           "soloists": []
         },
@@ -17272,7 +17284,7 @@
           "ID": "51370*5",
           "composerName": "Berlioz,  Hector",
           "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
-          "movement": "Dream of a Witches' Sabbath (Songe d'une nuit do sabbat): Larghetto -- Allegro",
+          "movement": "Dream of a Witches' Sabbath (Songe d'une Nuit du Sabbat): Larghetto -- Allegro",
           "conductorName": "Thomas, Michael Tilson",
           "soloists": []
         }
@@ -17762,7 +17774,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Kostelanetz, Andre",
           "soloists": []
         },
@@ -17770,7 +17782,7 @@
           "ID": "51194*4",
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "EXSULTATE JUBILATE, K.158A (OLD K.165)",
-          "movement": "Alleluja (Allegro)",
+          "movement": "Alleluja [Allegro]",
           "conductorName": "Kostelanetz, Andre",
           "soloists": [
             {
@@ -18156,7 +18168,7 @@
         },
         {
           "ID": "4593*2",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Meander",
           "conductorName": "Gilbert, David",
@@ -18164,7 +18176,7 @@
         },
         {
           "ID": "4593*7",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Riba (Mainstream)",
           "conductorName": "Gilbert, David",
@@ -18172,7 +18184,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Gilbert, David",
@@ -19962,7 +19974,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Boulez, Pierre",
           "soloists": []
         },
@@ -21099,21 +21111,21 @@
         },
         {
           "ID": "3018*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "DAYBREAK EXPRESS",
           "conductorName": "Schuller, Gunther",
           "soloists": []
         },
         {
           "ID": "3021*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "MOOD INDIGO",
           "conductorName": "Schuller, Gunther",
           "soloists": []
         },
         {
           "ID": "3026*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "KOKO",
           "conductorName": "Schuller, Gunther",
           "soloists": []
@@ -24050,7 +24062,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Leinsdorf, Erich",
           "soloists": []
         },
@@ -24071,12 +24083,12 @@
               "soloistRoles": "S"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "S"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "S"
             }
@@ -25920,7 +25932,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             }
@@ -26039,7 +26051,7 @@
           "ID": "51370*2",
           "composerName": "Berlioz,  Hector",
           "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
-          "movement": "A Ball (Un Ball): Valse: Allegro non troppo",
+          "movement": "A Ball (Un Bal): Valse: Allegro non troppo",
           "conductorName": "Schuller, Gunther",
           "soloists": []
         },
@@ -26317,7 +26329,7 @@
         {
           "ID": "2490*",
           "composerName": "Rachmaninoff,  Sergei",
-          "workTitle": "PRELUDE, OP. 23,  NO. 5, G MINOR (ARR. Borge)",
+          "workTitle": "PRELUDE, OP. 23,  NO. 5, G MINOR [VIOLIN SOLO] (ARR. Schliephake)",
           "conductorName": "Borge, Victor",
           "soloists": []
         },
@@ -26653,7 +26665,7 @@
           "conductorName": "Davis, Andrew",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -28693,7 +28705,7 @@
           "ID": "51194*4",
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "EXSULTATE JUBILATE, K.158A (OLD K.165)",
-          "movement": "Alleluja (Allegro)",
+          "movement": "Alleluja [Allegro]",
           "conductorName": "Kostelanetz, Andre",
           "soloists": [
             {
@@ -29195,7 +29207,7 @@
           "ID": "51194*4",
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "EXSULTATE JUBILATE, K.158A (OLD K.165)",
-          "movement": "Alleluja (Allegro)",
+          "movement": "Alleluja [Allegro]",
           "conductorName": "Kostelanetz, Andre",
           "soloists": [
             {
@@ -31872,7 +31884,7 @@
           "ID": "51370*2",
           "composerName": "Berlioz,  Hector",
           "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
-          "movement": "A Ball (Un Ball): Valse: Allegro non troppo",
+          "movement": "A Ball (Un Bal): Valse: Allegro non troppo",
           "conductorName": "Schuller, Gunther",
           "soloists": []
         },
@@ -32536,7 +32548,7 @@
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -33147,7 +33159,7 @@
           "ID": "642*5",
           "composerName": "Puccini,  Giacomo",
           "workTitle": "BOHEME, LA",
-          "movement": "\"Quando me’n vo’\" (Musetta's Waltz), Musetta (aria), Act II",
+          "movement": "\"Quando me'n vo'\" (Musetta's Waltz), Musetta (aria), Act II",
           "conductorName": "Kostelanetz, Andre",
           "soloists": [
             {
@@ -34193,7 +34205,7 @@
           "ID": "50068*4",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "movement": "Finale: Andante maestoso – Allegro vivace – Moderato assai e molto maestoso",
+          "movement": "Finale: Andante maestoso — Allegro vivace — Moderato assai e molto maestoso",
           "conductorName": "Abbado, Claudio",
           "soloists": []
         },
@@ -34322,136 +34334,7 @@
           "Time": "7:30PM"
         }
       ],
-      "works": [
-        {
-          "ID": "547*",
-          "composerName": "Cavalli,  Francesco",
-          "workTitle": "CANZONA A OTTO",
-          "conductorName": "Leppard, Raymond",
-          "soloists": []
-        },
-        {
-          "ID": "1659*",
-          "composerName": "Monteverdi,  Claudio",
-          "workTitle": "OHIME CH'IO CADO",
-          "conductorName": "Leppard, Raymond",
-          "soloists": [
-            {
-              "soloistName": "Shade, Ellen",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "2850*",
-          "composerName": "Monteverdi,  Claudio",
-          "workTitle": "SI DOLCE E IL TORMENTO",
-          "conductorName": "Leppard, Raymond",
-          "soloists": [
-            {
-              "soloistName": "Shade, Ellen",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "1921*1",
-          "composerName": "Cavalli,  Francesco",
-          "workTitle": "L'ORIMONTE",
-          "movement": "(aria): \"Numi ciechi pi",
-          "conductorName": "Leppard, Raymond",
-          "soloists": [
-            {
-              "soloistName": "Shade, Ellen",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "3992*",
-          "composerName": "Cavalli,  Francesco",
-          "workTitle": "CANZONA A DIECI",
-          "conductorName": "Leppard, Raymond",
-          "soloists": []
-        },
-        {
-          "ID": "2047*1",
-          "composerName": "Cavalli,  Francesco",
-          "workTitle": "L'EGISTO",
-          "conductorName": "Leppard, Raymond",
-          "soloists": [
-            {
-              "soloistName": "Shade, Ellen",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "3612*1",
-          "composerName": "Cavalli,  Francesco",
-          "workTitle": "XERSES",
-          "movement": "Climene (arioso): Lamento di Climene",
-          "conductorName": "Leppard, Raymond",
-          "soloists": [
-            {
-              "soloistName": "Shade, Ellen",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "555*1",
-          "composerName": "Cavalli,  Francesco",
-          "workTitle": "DORICLEA. LA",
-          "movement": "\"La Bellezza è un don fugace,\" (aria)",
-          "conductorName": "Leppard, Raymond",
-          "soloists": [
-            {
-              "soloistName": "Shade, Ellen",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "1147*1",
-          "composerName": "Monteverdi,  Claudio",
-          "workTitle": "BALLO DELLE INGRATE (MASCHERATA DELL'INGRATE)",
-          "movement": "\"O delle mie speranze,\" (aria)",
-          "conductorName": "Leppard, Raymond",
-          "soloists": [
-            {
-              "soloistName": "Shade, Ellen",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "2451*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
-          "conductorName": "Leppard, Raymond",
-          "soloists": []
-        },
-        {
-          "ID": "1867*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "SUITE NO. 3, D MAJOR, BWV 1068",
-          "conductorName": "Leppard, Raymond",
-          "soloists": []
-        }
-      ]
+      "works": []
     },
     {
       "id": "870aec42-0aa8-4366-b84f-8409a82b41a2",
@@ -34994,7 +34877,7 @@
           "ID": "54106*1",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23",
-          "movement": "Allegro non troppo e molto maestoso – Allegro con spirito",
+          "movement": "Allegro non troppo e molto maestoso — Allegro con spirito",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -39345,7 +39228,7 @@
           "ID": "51370*4",
           "composerName": "Berlioz,  Hector",
           "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
-          "movement": "March to the Scaffold (Marche au supplice): Allegretto non troppo",
+          "movement": "March to the Scaffold (Marche au Supplice): Allegretto non troppo",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -39353,7 +39236,7 @@
           "ID": "51370*5",
           "composerName": "Berlioz,  Hector",
           "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
-          "movement": "Dream of a Witches' Sabbath (Songe d'une nuit do sabbat): Larghetto -- Allegro",
+          "movement": "Dream of a Witches' Sabbath (Songe d'une Nuit du Sabbat): Larghetto -- Allegro",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -39759,6 +39642,7 @@
           "ID": "50376*1",
           "composerName": "Verdi,  Giuseppe",
           "workTitle": "FORZA DEL DESTINO, LA",
+          "movement": "Overture",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -39766,6 +39650,7 @@
           "ID": "50373*4",
           "composerName": "Verdi,  Giuseppe",
           "workTitle": "AIDA",
+          "movement": "\"Ritorna vincitor!\" Aida (aria), Act I",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -39779,6 +39664,7 @@
           "ID": "50376*5",
           "composerName": "Verdi,  Giuseppe",
           "workTitle": "FORZA DEL DESTINO, LA",
+          "movement": "\"Pace, pace mio Dio!\" Leonora (aria), Act IV",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -39792,6 +39678,7 @@
           "ID": "9001*12",
           "composerName": "Wagner,  Richard",
           "workTitle": "WALKURE, DIE, WWV 86B",
+          "movement": "Ride of the Valkyries, Act III",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -39799,6 +39686,7 @@
           "ID": "2068*3",
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
+          "movement": "Rondo: Allegro",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -39812,6 +39700,7 @@
           "ID": "8952*1",
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "RE PASTORE, IL, K.208",
+          "movement": "\"L'amerò sarò costante,\" Aminta, Act II, scene vi",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -40833,71 +40722,7 @@
           "Time": "11:00AM"
         }
       ],
-      "works": [
-        {
-          "ID": "50453*6",
-          "composerName": "Gliere [Glière],  Reinhold",
-          "workTitle": "RED POPPY, THE: SUITE",
-          "movement": "Russian Sailor's Dance",
-          "conductorName": "Buckley, Richard",
-          "soloists": []
-        },
-        {
-          "ID": "50296*5",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "IV. (W.M.B.)",
-          "conductorName": "Buckley, Richard",
-          "soloists": []
-        },
-        {
-          "ID": "50296*8",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "VII. (Troyte)",
-          "conductorName": "Buckley, Richard",
-          "soloists": []
-        },
-        {
-          "ID": "50296*10",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "IX. (Nimrod)",
-          "conductorName": "Buckley, Richard",
-          "soloists": []
-        },
-        {
-          "ID": "50296*12",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "XI. (G.R.S.)",
-          "conductorName": "Buckley, Richard",
-          "soloists": []
-        },
-        {
-          "ID": "50296*15",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "XIV. (E.D.U.) - Finale",
-          "conductorName": "Buckley, Richard",
-          "soloists": []
-        },
-        {
-          "ID": "50737*",
-          "composerName": "Ives,  Charles",
-          "workTitle": "VARIATIONS ON \"AMERICA\" (ARR. Schuman)",
-          "conductorName": "Buckley, Richard",
-          "soloists": []
-        },
-        {
-          "ID": "51884*4",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
-          "movement": "Allegro energico e passionato – Pi",
-          "conductorName": "Buckley, Richard",
-          "soloists": []
-        }
-      ]
+      "works": []
     },
     {
       "id": "c09d8b95-8af7-445e-b6b2-5d9cbd0e1f98",
@@ -41826,7 +41651,7 @@
           "ID": "53976*3",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Recitative (Tenor): Comfort ye, Comfort ye my people",
+          "movement": "Recitative (Tenor): Comfort ye my people",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -42409,7 +42234,6 @@
           "ID": "3152*3",
           "composerName": "Gabrieli,  Giovanni",
           "workTitle": "SACRAE SYMPHONIAE, BOOK 1",
-          "movement": "Canzon septimi toni a 8, C. 172",
           "conductorName": "Kojian, Varujan",
           "soloists": []
         },
@@ -42424,7 +42248,6 @@
           "ID": "2378*3",
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "SERENADE NO. 12, C MINOR, K.384A (OLD K.388)",
-          "movement": "Menuetto in canone -- Trio in canone al rovescio -- Menuetto",
           "conductorName": "Kojian, Varujan",
           "soloists": []
         },
@@ -42432,7 +42255,6 @@
           "ID": "2378*4",
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "SERENADE NO. 12, C MINOR, K.384A (OLD K.388)",
-          "movement": "Allegro",
           "conductorName": "Kojian, Varujan",
           "soloists": []
         },
@@ -42440,7 +42262,6 @@
           "ID": "50858*2",
           "composerName": "Kodaly [Kodály],  Zoltán",
           "workTitle": "HARY JANOS: SUITE",
-          "movement": "Viennese Musical Clock: Allegretto",
           "conductorName": "Kojian, Varujan",
           "soloists": []
         },
@@ -42448,7 +42269,6 @@
           "ID": "50858*4",
           "composerName": "Kodaly [Kodály],  Zoltán",
           "workTitle": "HARY JANOS: SUITE",
-          "movement": "The Battle and Defeat of Napoleon",
           "conductorName": "Kojian, Varujan",
           "soloists": []
         },
@@ -42456,7 +42276,6 @@
           "ID": "52347*1",
           "composerName": "Chavez [Chávez],  Carlos",
           "workTitle": "TOCCATA FOR PERCUSSION",
-          "movement": "Allegro sempre guisto",
           "conductorName": "Kojian, Varujan",
           "soloists": []
         },
@@ -42464,7 +42283,6 @@
           "ID": "52347*3",
           "composerName": "Chavez [Chávez],  Carlos",
           "workTitle": "TOCCATA FOR PERCUSSION",
-          "movement": "Allegro un poco marziale",
           "conductorName": "Kojian, Varujan",
           "soloists": []
         },
@@ -42530,7 +42348,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Zukerman, Pinchas",
           "soloists": []
         },
@@ -43688,7 +43506,7 @@
           "ID": "50068*1",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "movement": "Andante – Allegro con anima",
+          "movement": "Andante — Allegro con anima",
           "conductorName": "Zinman, David",
           "soloists": []
         },
@@ -46736,7 +46554,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -48281,7 +48099,7 @@
           "conductorName": "De Waart, Edo",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -48299,7 +48117,7 @@
           "conductorName": "De Waart, Edo",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -48837,12 +48655,12 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             }
@@ -48958,12 +48776,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             }
@@ -49194,7 +49007,7 @@
       "id": "79f59d8a-41d6-4de9-99c7-0fbab02e4e29",
       "programID": "4987",
       "orchestra": "New York Philharmonic",
-      "season": "1980-81",
+      "season": "1981-82",
       "concerts": [
         {
           "eventType": "Subscription Season",
@@ -50453,62 +50266,6 @@
               "soloistRoles": "S"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "2c0a76c2-4497-43f0-a05d-62a2dc89ca6b",
-      "programID": "5496",
-      "orchestra": "New York Philharmonic",
-      "season": "1980-81",
-      "concerts": [
-        {
-          "eventType": "Festival",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1981-06-11T04:00:00Z",
-          "Time": "8:00PM"
-        },
-        {
-          "eventType": "Festival",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1981-06-12T04:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "1255*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "VOYEVODA (THE GENERAL), OP.78",
-          "conductorName": "Davis, Andrew",
-          "soloists": []
-        },
-        {
-          "ID": "54109*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "CONCERTO, PIANO, NO. 2, G MAJOR, OP.44",
-          "conductorName": "Davis, Andrew",
-          "soloists": [
-            {
-              "soloistName": "Davidovich, Bella",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50064*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
-          "conductorName": "Davis, Andrew",
-          "soloists": []
         }
       ]
     },
@@ -53403,7 +53160,7 @@
       ]
     },
     {
-      "id": "130fa444-c382-4059-afcd-3b3374a6e667",
+      "id": "409a86ed-9c44-4966-b7e2-74ab53b540a1",
       "programID": "3195",
       "orchestra": "New York Philharmonic",
       "season": "1981-82",
@@ -56387,7 +56144,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -56470,12 +56227,12 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
@@ -61694,7 +61451,7 @@
           "conductorName": "Kubelik, Rafael",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -61744,7 +61501,7 @@
           "conductorName": "Newland, Larry",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -62320,6 +62077,7 @@
           "ID": "8957*1",
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "MARRIAGE OF FIGARO, THE, K.492",
+          "movement": "Overture",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -62359,6 +62117,7 @@
           "ID": "7904*4",
           "composerName": "Strauss,  Johann, II",
           "workTitle": "FLEDERMAUS, DIE",
+          "movement": "Overture, Op. 362",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -62881,7 +62640,7 @@
           "ID": "8957*8",
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "MARRIAGE OF FIGARO, THE, K.492",
-          "movement": "\"Non pi",
+          "movement": "\"Non più andrai,\" Figaro, Act I, scene viii",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -62895,6 +62654,7 @@
           "ID": "51812*1",
           "composerName": "Brahms,  Johannes",
           "workTitle": "REQUIEM, DEUTSCHES, OP.45",
+          "movement": "Selig sind die da Leid tragen (Blessed are they that mourn)",
           "conductorName": "Thompson, Leon",
           "soloists": [
             {
@@ -62913,6 +62673,7 @@
           "ID": "2725*1",
           "composerName": "Verdi,  Giuseppe",
           "workTitle": "LUISA MILLER",
+          "movement": "Overture",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -62920,7 +62681,7 @@
           "ID": "8999*9",
           "composerName": "Wagner,  Richard",
           "workTitle": "LOHENGRIN",
-          "movement": "Overture",
+          "movement": "Act III: Introduction",
           "conductorName": "Thompson, Leon",
           "soloists": []
         },
@@ -62928,7 +62689,7 @@
           "ID": "9001*8",
           "composerName": "Wagner,  Richard",
           "workTitle": "WALKURE, DIE, WWV 86B",
-          "movement": "Act III: Introduction",
+          "movement": "\"Du bist der Lenz,\" Sieglinde (aria), Act I, scene iii",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -62942,7 +62703,7 @@
           "ID": "50541*5",
           "composerName": "Gounod,  Charles",
           "workTitle": "MESSE SOLENNELLE DE SAINTE CÉCILE",
-          "movement": "\"Du bist der Lenz,\" Sieglinde (aria), Act I, scene iii",
+          "movement": "Sanctus",
           "conductorName": "Thompson, Leon",
           "soloists": [
             {
@@ -62961,7 +62722,6 @@
           "ID": "1625*",
           "composerName": "Traditional,",
           "workTitle": "SPIRITUAL: WERE YOU THERE (A CAPPELLA)",
-          "movement": "Sanctus",
           "soloists": [
             {
               "soloistName": "Norman, Jessye",
@@ -62974,6 +62734,7 @@
           "ID": "53976*41",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
+          "movement": "Chorus: Hallelujah!",
           "conductorName": "Thompson, Leon",
           "soloists": [
             {
@@ -63198,7 +62959,7 @@
               "soloistRoles": "S"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "S"
             },
@@ -65457,7 +65218,13 @@
           "workTitle": "KNABEN WUNDERHORN, DES (12 SONGS)",
           "movement": "\"Revelge\" (\"Reveille\")",
           "conductorName": "Newland, Larry",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Hagegard [Hagegård], Håkon",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            }
+          ]
         },
         {
           "ID": "52647*10",
@@ -65465,7 +65232,13 @@
           "workTitle": "KNABEN WUNDERHORN, DES (12 SONGS)",
           "movement": "\"Lob des hohen Verstandes\" (Praise from an Advanced Intellect\")",
           "conductorName": "Newland, Larry",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Hagegard [Hagegård], Håkon",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            }
+          ]
         },
         {
           "ID": "52647*6",
@@ -65473,7 +65246,13 @@
           "workTitle": "KNABEN WUNDERHORN, DES (12 SONGS)",
           "movement": "\"Wo die schönen Trompeten blasen\" (\"Where the Fair Trumpets Sound\")",
           "conductorName": "Newland, Larry",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Hagegard [Hagegård], Håkon",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            }
+          ]
         },
         {
           "ID": "52647*8",
@@ -65481,7 +65260,13 @@
           "workTitle": "KNABEN WUNDERHORN, DES (12 SONGS)",
           "movement": "\"Des Antonius von Padua Fischpredigt\" (\"St. Anthony of Padua's Sermon to the Fishes\")",
           "conductorName": "Newland, Larry",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Hagegard [Hagegård], Håkon",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            }
+          ]
         },
         {
           "ID": "52647*12",
@@ -65489,7 +65274,13 @@
           "workTitle": "KNABEN WUNDERHORN, DES (12 SONGS)",
           "movement": "\"Der Tambourg'sell\" (\"The Drummer Boy\")",
           "conductorName": "Newland, Larry",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Hagegard [Hagegård], Håkon",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            }
+          ]
         },
         {
           "ID": "0*",
@@ -66007,7 +65798,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -66095,7 +65886,7 @@
         {
           "ID": "2451*1",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "movement": "[Allegro]",
           "conductorName": "Mehta, Zubin",
           "soloists": []
@@ -66155,7 +65946,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -66966,7 +66757,7 @@
         {
           "ID": "5353*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (ARR. Cooke)",
+          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (COOKE)",
           "conductorName": "Sanderling, Kurt",
           "soloists": []
         }
@@ -67120,7 +66911,7 @@
         {
           "ID": "5353*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (ARR. Cooke)",
+          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (COOKE)",
           "conductorName": "Sanderling, Kurt",
           "soloists": []
         }
@@ -68263,7 +68054,7 @@
           "ID": "1930*1",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Mars, the Bringer of War (Allegro)",
+          "movement": "Mars, the Bringer of War",
           "conductorName": "Newland, Larry",
           "soloists": []
         },
@@ -68271,7 +68062,7 @@
           "ID": "1930*3",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Mercury, the Winged Messenger (Vivace)",
+          "movement": "Mercury, the Winged Messenger",
           "conductorName": "Newland, Larry",
           "soloists": []
         },
@@ -68279,7 +68070,7 @@
           "ID": "1930*4",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Jupiter, the Bringer of Jollity (Allegro giocoso)",
+          "movement": "Jupiter, the Bringer of Jollity",
           "conductorName": "Newland, Larry",
           "soloists": []
         }
@@ -69254,7 +69045,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -72459,7 +72250,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -72621,7 +72412,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -72835,6 +72626,76 @@
           "workTitle": "STARS AND STRIPES FOREVER",
           "conductorName": "Mehta, Zubin",
           "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "8c9ac4c2-5f9d-4487-9a3f-dd1703278f87",
+      "programID": "5053",
+      "orchestra": "New York Philharmonic",
+      "season": "1980-81",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1991-06-12T04:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1991-06-13T04:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1991-06-14T04:00:00Z",
+          "Time": "11:00AM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1991-06-15T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51807*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "ACADEMIC FESTIVAL OVERTURE, OP.80",
+          "conductorName": "Previn, André",
+          "soloists": []
+        },
+        {
+          "ID": "51658*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SYMPHONY NO. 39, E-FLAT MAJOR, K.543",
+          "conductorName": "Previn, André",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51067*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, PIANO NO. 24, C MINOR, K.491",
+          "conductorName": "Previn, André",
+          "soloists": [
+            {
+              "soloistName": "Previn, André",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
         }
       ]
     }

@@ -1207,6 +1207,7 @@
           "ID": "7599*1",
           "composerName": "Bernstein,  Leonard",
           "workTitle": "CANDIDE",
+          "movement": "Overture",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -2200,7 +2201,7 @@
           "conductorName": "Davis, Andrew",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -2213,7 +2214,7 @@
           "conductorName": "Davis, Andrew",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -3044,9 +3045,9 @@
           ]
         },
         {
-          "ID": "52725*3",
+          "ID": "52074*3",
           "composerName": "Verdi,  Giuseppe",
-          "workTitle": "QUATTRO PEZZI SACRI",
+          "workTitle": "FOUR SACRED PIECES",
           "movement": "Laudi alla Vergine Maria",
           "conductorName": "Mehta, Zubin",
           "soloists": [
@@ -3058,9 +3059,9 @@
           ]
         },
         {
-          "ID": "52725*4",
+          "ID": "52074*4",
           "composerName": "Verdi,  Giuseppe",
-          "workTitle": "QUATTRO PEZZI SACRI",
+          "workTitle": "FOUR SACRED PIECES",
           "movement": "Te Deum",
           "conductorName": "Mehta, Zubin",
           "soloists": [
@@ -4379,9 +4380,14 @@
           "conductorName": "Fletcher, Richard",
           "soloists": [
             {
-              "soloistName": "Ashby, Jerome;  Carabella, John",
-              "soloistInstrument": "None",
-              "soloistRoles": "S; S"
+              "soloistName": "Ashby, Jerome",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Carabella, John",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "S"
             }
           ]
         },
@@ -5376,7 +5382,7 @@
           "ID": "51194*4",
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "EXSULTATE JUBILATE, K.158A (OLD K.165)",
-          "movement": "Alleluja (Allegro)",
+          "movement": "Alleluja [Allegro]",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -5585,7 +5591,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -5876,7 +5882,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -6637,7 +6643,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -6928,7 +6934,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -7109,7 +7115,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -7158,7 +7164,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -7249,7 +7255,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -7291,7 +7297,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -7333,7 +7339,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -7391,7 +7397,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -7751,7 +7757,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -7838,7 +7844,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -8087,7 +8093,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -8307,7 +8313,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -8640,6 +8646,7 @@
           "ID": "50376*1",
           "composerName": "Verdi,  Giuseppe",
           "workTitle": "FORZA DEL DESTINO, LA",
+          "movement": "Overture",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -8654,6 +8661,7 @@
           "ID": "8855*8",
           "composerName": "Dvorak,  Antonín",
           "workTitle": "SLAVONIC DANCES, OP. 46",
+          "movement": "No. 8 in G minor: Presto",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -8661,6 +8669,7 @@
           "ID": "53778*7",
           "composerName": "Prokofiev,  Sergei",
           "workTitle": "ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS",
+          "movement": "The Death of Tybalt",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -8682,6 +8691,7 @@
           "ID": "2068*3",
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
+          "movement": "Rondo: Allegro",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -11313,7 +11323,7 @@
       ]
     },
     {
-      "id": "b1d9aafc-3bc3-4539-944c-80aad8c82ab1",
+      "id": "0ef14c00-0435-44b9-8c54-18c9e4a1761e",
       "programID": "154",
       "orchestra": "New York Philharmonic",
       "season": "1985-86",
@@ -11976,7 +11986,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -12016,12 +12026,12 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Timpani",
               "soloistRoles": "A"
             }
@@ -12065,7 +12075,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -12105,12 +12115,12 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Timpani",
               "soloistRoles": "A"
             }
@@ -12154,7 +12164,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -12194,12 +12204,12 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Timpani",
               "soloistRoles": "A"
             }
@@ -12243,7 +12253,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -12283,12 +12293,12 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Timpani",
               "soloistRoles": "A"
             }
@@ -12332,7 +12342,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -12372,12 +12382,12 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Timpani",
               "soloistRoles": "A"
             }
@@ -12421,7 +12431,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -12461,12 +12471,12 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Timpani",
               "soloistRoles": "A"
             }
@@ -14009,11 +14019,6 @@
               "soloistName": "Alessi, Joseph",
               "soloistInstrument": "Trombone",
               "soloistRoles": "A"
-            },
-            {
-              "soloistName": "",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
             }
           ]
         }
@@ -15077,64 +15082,7 @@
           "Time": "1:30PM"
         }
       ],
-      "works": [
-        {
-          "ID": "52364*1",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "EGMONT, OP.84",
-          "movement": "Overture",
-          "conductorName": "Levine, Gilbert",
-          "soloists": [
-            {
-              "soloistName": "All-City High School Orchestra",
-              "soloistInstrument": "Guest Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "50025*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "ROMEO AND JULIET, FANTASY-OVERTURE",
-          "conductorName": "Levine, Gilbert",
-          "soloists": []
-        },
-        {
-          "ID": "1834*",
-          "composerName": "Bernstein,  Leonard",
-          "workTitle": "WEST SIDE STORY, SELECTIONS (ARR. Mason)",
-          "conductorName": "Levine, Gilbert",
-          "soloists": [
-            {
-              "soloistName": "All-City High School Orchestra",
-              "soloistInstrument": "Guest Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51870*3",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
-          "movement": "Un poco allegretto e grazioso",
-          "conductorName": "Levine, Gilbert",
-          "soloists": []
-        },
-        {
-          "ID": "51870*4",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
-          "movement": "Adagio – Pi",
-          "conductorName": "Levine, Gilbert",
-          "soloists": [
-            {
-              "soloistName": "All-City High School Orchestra",
-              "soloistInstrument": "Guest Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
+      "works": []
     },
     {
       "id": "0534b1d8-856a-466e-8d81-334e39b0bf28",
@@ -15326,7 +15274,7 @@
         {
           "ID": "1689*",
           "composerName": "Druckman,  Jacob",
-          "workTitle": "A BIRTHDAY BOUQUET",
+          "workTitle": "BIRTHDAY BOUQUET, A",
           "conductorName": "Stern, Isaac",
           "soloists": [
             {
@@ -16802,7 +16750,7 @@
           "ID": "52461*4",
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "SYMPHONY NO. 9 IN D MINOR, OP.125",
-          "movement": "Presto – Recitativo \"O Freunde, nicht diese Töne\" -- Allegro assai",
+          "movement": "Presto — Recitativo: \"O Freunde, nicht diese Töne\" — Allegro assai",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -17392,7 +17340,7 @@
       ]
     },
     {
-      "id": "4a76342a-1cd6-48e0-ad03-c0713a6c866a",
+      "id": "47c695cc-55d3-4471-af22-d50db55189e1-0.1",
       "programID": "991",
       "orchestra": "New York Philharmonic",
       "season": "1985-86",
@@ -18152,7 +18100,7 @@
         {
           "ID": "1352*",
           "composerName": "Reinecke,  Carl",
-          "workTitle": "TRIO FOR CLARINET, HORN AND PIANO, OP. 274",
+          "workTitle": "TRIO, CLARINET, HORN AND PIANO, OP. 274",
           "soloists": [
             {
               "soloistName": "Drucker, Stanley",
@@ -18478,7 +18426,7 @@
           "conductorName": "Tennstedt, Klaus",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -19172,7 +19120,7 @@
         },
         {
           "ID": "4593*1",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Spring",
           "conductorName": "Mehta, Zubin",
@@ -19180,7 +19128,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Mehta, Zubin",
@@ -19188,7 +19136,7 @@
         },
         {
           "ID": "4593*6",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Vortex",
           "conductorName": "Mehta, Zubin",
@@ -21039,7 +20987,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             }
@@ -22136,7 +22084,7 @@
           "ID": "50068*4",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "movement": "Finale: Andante maestoso – Allegro vivace – Moderato assai e molto maestoso",
+          "movement": "Finale: Andante maestoso — Allegro vivace — Moderato assai e molto maestoso",
           "conductorName": "Kruglikov, Felix",
           "soloists": []
         }
@@ -22662,7 +22610,7 @@
         },
         {
           "ID": "4593*1",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Spring",
           "conductorName": "Davis, Andrew",
@@ -22676,7 +22624,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Davis, Andrew",
@@ -23124,7 +23072,7 @@
       ]
     },
     {
-      "id": "a1dc6fad-cdf1-4431-b33d-78e1ee8d9ebe",
+      "id": "78e45518-5d5b-47bb-92fd-2cd7a3cbdaf4",
       "programID": "44",
       "orchestra": "New York Philharmonic",
       "season": "1986-87",
@@ -23225,7 +23173,7 @@
       ]
     },
     {
-      "id": "9dc775fb-d2a9-4e83-91c8-80b0a6ebd175",
+      "id": "f2f8246c-945c-4fff-96ae-2dc11e52b682",
       "programID": "52",
       "orchestra": "New York Philharmonic",
       "season": "1986-87",
@@ -23500,7 +23448,7 @@
         },
         {
           "ID": "4593*2",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Meander",
           "conductorName": "DePreist, James",
@@ -23508,7 +23456,7 @@
         },
         {
           "ID": "4593*6",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Vortex",
           "conductorName": "DePreist, James",
@@ -23516,7 +23464,7 @@
         },
         {
           "ID": "4593*4",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Lake",
           "conductorName": "DePreist, James",
@@ -23524,7 +23472,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "DePreist, James",
@@ -23612,7 +23560,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             }
@@ -23660,7 +23608,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             }
@@ -24469,7 +24417,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Mehta, Zubin",
@@ -24725,7 +24673,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Mehta, Zubin",
@@ -24816,7 +24764,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Mehta, Zubin",
@@ -24970,7 +24918,7 @@
           "ID": "50068*4",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "movement": "Finale: Andante maestoso – Allegro vivace – Moderato assai e molto maestoso",
+          "movement": "Finale: Andante maestoso — Allegro vivace — Moderato assai e molto maestoso",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -25000,7 +24948,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Mehta, Zubin",
@@ -25226,7 +25174,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             }
@@ -25319,121 +25267,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
-          "workTitle": "RIVER, THE",
-          "movement": "Giggling Rapids",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "3820*",
-          "composerName": "Sousa,  John  Philip",
-          "workTitle": "STARS AND STRIPES FOREVER",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "1d389039-5a44-4015-b05b-423f10864557",
-      "programID": "627",
-      "orchestra": "New York Philharmonic",
-      "season": "1986-87",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Buenos Aires, ARGENTINA",
-          "Venue": "Public Special",
-          "Date": "1987-08-09T04:00:00Z",
-          "Time": "12:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "856*",
-          "composerName": "Schubert,  Franz",
-          "workTitle": "ROSAMUNDE: OVERTURE, D.644",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "3413*1",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SINFONIA CONCERTANTE, VLN/VLA, E-FLAT MAJOR, K.320D (K.364)",
-          "movement": "Allegro maestoso",
-          "conductorName": "Mehta, Zubin",
-          "soloists": [
-            {
-              "soloistName": "Dicterow, Glenn",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Neubauer, Paul",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "11775*2",
-          "composerName": "Falla,  Manuel  de",
-          "workTitle": "THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2",
-          "movement": "The Miller's Dance (Farruca)",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "5421*1",
-          "composerName": "Albeniz [Albéniz],  Isaac",
-          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Arbos)",
-          "movement": "Triana",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "50068*3",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "movement": "Valse: Allegro moderato",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "50068*4",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "movement": "Finale: Andante maestoso – Allegro vivace – Moderato assai e molto maestoso",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "51581*3",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
-          "movement": "General Dance",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "50376*1",
-          "composerName": "Verdi,  Giuseppe",
-          "workTitle": "FORZA DEL DESTINO, LA",
-          "movement": "Overture",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "52164*4",
-          "composerName": "Puccini,  Giacomo",
-          "workTitle": "MANON LESCAUT",
-          "movement": "Intermezzo (Prelude to Act III)",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Mehta, Zubin",
@@ -25520,6 +25354,120 @@
           "composerName": "Verdi,  Giuseppe",
           "workTitle": "FORZA DEL DESTINO, LA",
           "movement": "Overture",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "1d389039-5a44-4015-b05b-423f10864557",
+      "programID": "627",
+      "orchestra": "New York Philharmonic",
+      "season": "1986-87",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Buenos Aires, ARGENTINA",
+          "Venue": "Public Special",
+          "Date": "1987-08-09T04:00:00Z",
+          "Time": "12:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "856*",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "ROSAMUNDE: OVERTURE, D.644",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "3413*1",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SINFONIA CONCERTANTE, VLN/VLA, E-FLAT MAJOR, K.320D (K.364)",
+          "movement": "Allegro maestoso",
+          "conductorName": "Mehta, Zubin",
+          "soloists": [
+            {
+              "soloistName": "Dicterow, Glenn",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Neubauer, Paul",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "11775*2",
+          "composerName": "Falla,  Manuel  de",
+          "workTitle": "THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2",
+          "movement": "The Miller's Dance (Farruca)",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "5421*1",
+          "composerName": "Albeniz [Albéniz],  Isaac",
+          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Arbos)",
+          "movement": "Triana",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "50068*3",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+          "movement": "Valse: Allegro moderato",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "50068*4",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+          "movement": "Finale: Andante maestoso — Allegro vivace — Moderato assai e molto maestoso",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "51581*3",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
+          "movement": "General Dance",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "50376*1",
+          "composerName": "Verdi,  Giuseppe",
+          "workTitle": "FORZA DEL DESTINO, LA",
+          "movement": "Overture",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "52164*4",
+          "composerName": "Puccini,  Giacomo",
+          "workTitle": "MANON LESCAUT",
+          "movement": "Intermezzo (Prelude to Act III)",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "4593*3",
+          "composerName": "Ellington,  Duke",
+          "workTitle": "RIVER, THE",
+          "movement": "Giggling Rapids",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "3820*",
+          "composerName": "Sousa,  John  Philip",
+          "workTitle": "STARS AND STRIPES FOREVER",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         }
@@ -25682,7 +25630,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             }
@@ -25810,7 +25758,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             }
@@ -25938,7 +25886,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             }
@@ -26286,7 +26234,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             }
@@ -26973,6 +26921,7 @@
           "ID": "9007*17",
           "composerName": "Wagner,  Richard",
           "workTitle": "MEISTERSINGER, DIE, WWV 96",
+          "movement": "Prelude to Act I",
           "conductorName": "Leinsdorf, Erich",
           "soloists": []
         },
@@ -27005,6 +26954,7 @@
           "ID": "8859*3",
           "composerName": "Bach,  Johann  Sebastian",
           "workTitle": "SONATA, VIOLIN, UNACCOMPANIED, NO. 3, C MAJOR, BWV 1005",
+          "movement": "Allegro Assai",
           "soloists": [
             {
               "soloistName": "Milstein, Nathan",
@@ -27430,7 +27380,7 @@
           "ID": "51370*4",
           "composerName": "Berlioz,  Hector",
           "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
-          "movement": "March to the Scaffold (Marche au supplice): Allegretto non troppo",
+          "movement": "March to the Scaffold (Marche au Supplice): Allegretto non troppo",
           "conductorName": "Slatkin, Leonard",
           "soloists": []
         },
@@ -27462,7 +27412,7 @@
           "ID": "6406*2",
           "composerName": "Williams,  John",
           "workTitle": "STAR WARS SUITE",
-          "movement": "The Empire Strikes Back, The Imperial March (Darth Vader's theme)",
+          "movement": "The Imperial March (Darth Vader's theme)",
           "conductorName": "Slatkin, Leonard",
           "soloists": []
         }
@@ -27655,7 +27605,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -28256,7 +28206,7 @@
         },
         {
           "ID": "1667*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "PRAISE GOD AND DANCE",
           "conductorName": "Mehta, Zubin",
           "soloists": [
@@ -30185,7 +30135,7 @@
         {
           "ID": "5353*1",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (ARR. Cooke)",
+          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (COOKE)",
           "movement": "Adagio",
           "conductorName": "Conlon, James",
           "soloists": []
@@ -30789,7 +30739,7 @@
         },
         {
           "ID": "1667*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "PRAISE GOD AND DANCE",
           "conductorName": "DePreist, James",
           "soloists": [
@@ -30886,7 +30836,7 @@
         },
         {
           "ID": "4301*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "ROCKIN' IN RHYTHM (ARR. Lewis)",
           "conductorName": "DePreist, James",
           "soloists": [
@@ -31761,7 +31711,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Mehta, Zubin",
@@ -31980,7 +31930,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Mehta, Zubin",
@@ -33101,7 +33051,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Mehta, Zubin",
@@ -34524,7 +34474,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Mehta, Zubin",
@@ -34576,6 +34526,7 @@
           "ID": "9006*15",
           "composerName": "Wagner,  Richard",
           "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+          "movement": "PROLOGUE: Dawn",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -34583,6 +34534,7 @@
           "ID": "9006*17",
           "composerName": "Wagner,  Richard",
           "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+          "movement": "PROLOGUE: Siegfried's Rhine Journey",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -34590,6 +34542,7 @@
           "ID": "9006*10",
           "composerName": "Wagner,  Richard",
           "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+          "movement": "Siegfried's Funeral Music, ACT III, scene ii",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -34597,6 +34550,7 @@
           "ID": "9006*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+          "movement": "ACT III, scene iii: Finale",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -34604,6 +34558,7 @@
           "ID": "9001*12",
           "composerName": "Wagner,  Richard",
           "workTitle": "WALKURE, DIE, WWV 86B",
+          "movement": "Ride of the Valkyries, Act III",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         }
@@ -36749,7 +36704,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "De Intinis, Rainer",
+              "soloistName": "De Intinis, Ranier",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             },
@@ -38017,7 +37972,7 @@
         {
           "ID": "51438*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE NO.  6, D MAJOR, K.239 \"SERENATA NOTTURNA\"",
+          "workTitle": "SERENADE NO.  6, D MAJOR, K.239, \"SERENATA NOTTURNA\"",
           "conductorName": "Masur, Kurt",
           "soloists": [
             {
@@ -38094,7 +38049,7 @@
         {
           "ID": "51438*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE NO.  6, D MAJOR, K.239 \"SERENATA NOTTURNA\"",
+          "workTitle": "SERENADE NO.  6, D MAJOR, K.239, \"SERENATA NOTTURNA\"",
           "conductorName": "Masur, Kurt",
           "soloists": [
             {
@@ -39366,7 +39321,7 @@
           "conductorName": "Herbig, Gunther",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -40942,7 +40897,7 @@
           "conductorName": "Tung, Ling",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -41122,7 +41077,7 @@
           "conductorName": "Tung, Ling",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -44023,7 +43978,7 @@
           "ID": "1930*1",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Mars, the Bringer of War (Allegro)",
+          "movement": "Mars, the Bringer of War",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -44037,7 +43992,7 @@
           "ID": "1930*3",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Mercury, the Winged Messenger (Vivace)",
+          "movement": "Mercury, the Winged Messenger",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -44051,7 +44006,7 @@
           "ID": "1930*4",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Jupiter, the Bringer of Jollity (Allegro giocoso)",
+          "movement": "Jupiter, the Bringer of Jollity",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -44065,7 +44020,7 @@
           "ID": "1930*6",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Uranus, the Magician (Allegro)",
+          "movement": "Uranus, the Magician",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -44881,96 +44836,6 @@
       ]
     },
     {
-      "id": "2956d8fc-de05-4851-aae5-41088de6ab94",
-      "programID": "5223",
-      "orchestra": "New York Philharmonic",
-      "season": "1989-90",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1989-12-16T05:00:00Z",
-          "Time": "2:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8837*10",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "FIDELIO, OP. 72",
-          "movement": "Overture",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "1448*",
-          "composerName": "Pierpont,  James  Lord",
-          "workTitle": "JINGLE BELLS [UNSPECIFIED ARRANGEMENTS]",
-          "soloists": [
-            {
-              "soloistName": "Mulligan, Gerry",
-              "soloistInstrument": "Saxophone",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Mulligan Quartet, The Gerry",
-              "soloistInstrument": "Jazz Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Charlap, Bill",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Johnson, Dean",
-              "soloistInstrument": "Contrabass",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "De Rosa, Richard",
-              "soloistInstrument": "Drum Set",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "6094*",
-          "composerName": "Mulligan,  Gerry",
-          "workTitle": "K-4 PACIFIC",
-          "conductorName": "Mehta, Zubin",
-          "soloists": [
-            {
-              "soloistName": "Mulligan, Gerry",
-              "soloistInstrument": "Saxophone",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Mulligan Quartet, The Gerry",
-              "soloistInstrument": "Jazz Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Charlap, Bill",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Johnson, Dean",
-              "soloistInstrument": "Contrabass",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "De Rosa, Richard",
-              "soloistInstrument": "Drum Set",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "bc94ede9-24a4-4777-a82c-59f255519e3a",
       "programID": "803",
       "orchestra": "New York Philharmonic",
@@ -45054,6 +44919,96 @@
           "ID": "26*",
           "composerName": "Mulligan,  Gerry",
           "workTitle": "SONG FOR A STRAY HORN",
+          "soloists": [
+            {
+              "soloistName": "Mulligan, Gerry",
+              "soloistInstrument": "Saxophone",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Mulligan Quartet, The Gerry",
+              "soloistInstrument": "Jazz Quartet",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Charlap, Bill",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Johnson, Dean",
+              "soloistInstrument": "Contrabass",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "De Rosa, Richard",
+              "soloistInstrument": "Drum Set",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "6094*",
+          "composerName": "Mulligan,  Gerry",
+          "workTitle": "K-4 PACIFIC",
+          "conductorName": "Mehta, Zubin",
+          "soloists": [
+            {
+              "soloistName": "Mulligan, Gerry",
+              "soloistInstrument": "Saxophone",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Mulligan Quartet, The Gerry",
+              "soloistInstrument": "Jazz Quartet",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Charlap, Bill",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Johnson, Dean",
+              "soloistInstrument": "Contrabass",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "De Rosa, Richard",
+              "soloistInstrument": "Drum Set",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2956d8fc-de05-4851-aae5-41088de6ab94",
+      "programID": "5223",
+      "orchestra": "New York Philharmonic",
+      "season": "1989-90",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1989-12-16T05:00:00Z",
+          "Time": "2:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8837*10",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "FIDELIO, OP. 72",
+          "movement": "Overture",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "1448*",
+          "composerName": "Pierpont,  James  Lord",
+          "workTitle": "JINGLE BELLS [UNSPECIFIED ARRANGEMENTS]",
           "soloists": [
             {
               "soloistName": "Mulligan, Gerry",
@@ -45774,7 +45729,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             }
@@ -47132,7 +47087,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
@@ -50583,7 +50538,7 @@
           "workTitle": "HIT THE DECK",
           "soloists": [
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
@@ -50593,7 +50548,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
@@ -50833,7 +50788,7 @@
           "conductorName": "Leinsdorf, Erich",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -50851,7 +50806,7 @@
           "conductorName": "Leinsdorf, Erich",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -50895,14 +50850,9 @@
           "conductorName": "Gilbert, David",
           "soloists": [
             {
-              "soloistName": "Gilbert, David",
+              "soloistName": "Gilbert, David;",
               "soloistInstrument": "Commentator",
               "soloistRoles": "S"
-            },
-            {
-              "soloistName": "",
-              "soloistInstrument": "",
-              "soloistRoles": ""
             }
           ]
         },
@@ -53088,7 +53038,40 @@
           "Time": "6:30PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "3802*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUINTET, CLARINET, A MAJOR, K.581",
+          "soloists": [
+            {
+              "soloistName": "Simenauer, Peter",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Takebe, Yoko",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "McDermott, Kerry",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rence, Dorian",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Stepansky, Alan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "1fd05c0c-7edd-4e35-9d29-589ef9f2a551",
@@ -54122,7 +54105,40 @@
           "Time": "7:00PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "1926*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUINTET, PIANO AND WINDS, E-FLAT MAJOR, K.452",
+          "soloists": [
+            {
+              "soloistName": "Sylar, Sherry",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Simenauer, Peter",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Carroll, David",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ashby, Jerome",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wingreen, Harriet",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "ada71159-5c18-4072-affd-f3e035ff7b05",
@@ -54187,7 +54203,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Gilbert, David",
@@ -54282,7 +54298,7 @@
           "workTitle": "HIT THE DECK",
           "soloists": [
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
@@ -54292,7 +54308,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
@@ -54438,7 +54454,7 @@
         },
         {
           "ID": "4593*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "RIVER, THE",
           "movement": "Giggling Rapids",
           "conductorName": "Gilbert, David",
@@ -54543,22 +54559,6 @@
       ]
     },
     {
-      "id": "fbcc7740-2b2e-4b99-ac04-d184f7068d36",
-      "programID": "12100",
-      "orchestra": "NY Philharmonic Ensembles",
-      "season": "1990-91",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1991-03-21T05:00:00Z",
-          "Time": "7:00PM"
-        }
-      ],
-      "works": []
-    },
-    {
       "id": "10f68d13-c121-4847-ad75-ef31e453cbad",
       "programID": "6727",
       "orchestra": "New York Philharmonic",
@@ -54617,6 +54617,29 @@
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "SYMPHONY NO. 38, D MAJOR, K.504, \"PRAGUE\"",
           "conductorName": "Berglund, Paavo",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "fbcc7740-2b2e-4b99-ac04-d184f7068d36",
+      "programID": "12100",
+      "orchestra": "NY Philharmonic Ensembles",
+      "season": "1990-91",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1991-03-21T05:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "1287*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUARTET, PIANO, NO. 2, E-FLAT MAJOR, K.493",
           "soloists": []
         }
       ]
@@ -55534,6 +55557,93 @@
       ]
     },
     {
+      "id": "da7ba268-0bba-4881-a211-29d71e831511",
+      "programID": "7453",
+      "orchestra": "New York Philharmonic",
+      "season": "1990-91",
+      "concerts": [
+        {
+          "eventType": "Special",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1991-05-05T04:00:00Z",
+          "Time": "9:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52303*",
+          "composerName": "Copland,  Aaron",
+          "workTitle": "FANFARE FOR THE COMMON MAN",
+          "conductorName": "Levine, James",
+          "soloists": []
+        },
+        {
+          "ID": "5573*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "FANTASIA FOR PIANO, CHORUS AND ORCH., OP.80",
+          "conductorName": "Levine, James",
+          "soloists": [
+            {
+              "soloistName": "Brendel, Alfred",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "New York Choral Artists",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "50247*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, VIOLIN AND CELLO, OP. 102 (DOUBLE)",
+          "conductorName": "Mehta, Zubin",
+          "soloists": [
+            {
+              "soloistName": "Stern, Isaac",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Ma, Yo-Yo",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "3220*1",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "AGYPTISCHE HELENA, DIE (EGYPTIAN HELEN), OP. 75",
+          "movement": "\"Zweite Brautnacht!\" Helena (aria)",
+          "conductorName": "Levine, James",
+          "soloists": [
+            {
+              "soloistName": "Price, Leontyne",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "3985*6",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  3 IN D MINOR",
+          "movement": "6. Langsam. Ruhevoll. Empfunden. (Slow. Calm. Deeply felt.)",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "7e447a1e-22f1-4ad1-b0c7-0638569c30ca",
       "programID": "687",
       "orchestra": "New York Philharmonic",
@@ -55762,93 +55872,6 @@
       ]
     },
     {
-      "id": "da7ba268-0bba-4881-a211-29d71e831511",
-      "programID": "7453",
-      "orchestra": "New York Philharmonic",
-      "season": "1990-91",
-      "concerts": [
-        {
-          "eventType": "Special",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1991-05-05T04:00:00Z",
-          "Time": "9:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52303*",
-          "composerName": "Copland,  Aaron",
-          "workTitle": "FANFARE FOR THE COMMON MAN",
-          "conductorName": "Levine, James",
-          "soloists": []
-        },
-        {
-          "ID": "5573*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "FANTASIA FOR PIANO, CHORUS AND ORCH., OP.80",
-          "conductorName": "Levine, James",
-          "soloists": [
-            {
-              "soloistName": "Brendel, Alfred",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "New York Choral Artists",
-              "soloistInstrument": "Chorus",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "50247*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "CONCERTO, VIOLIN AND CELLO, OP. 102 (DOUBLE)",
-          "conductorName": "Mehta, Zubin",
-          "soloists": [
-            {
-              "soloistName": "Stern, Isaac",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Ma, Yo-Yo",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "3220*1",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "AGYPTISCHE HELENA, DIE (EGYPTIAN HELEN), OP. 75",
-          "movement": "\"Zweite Brautnacht!\" Helena (aria)",
-          "conductorName": "Levine, James",
-          "soloists": [
-            {
-              "soloistName": "Price, Leontyne",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "3985*6",
-          "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  3 IN D MINOR",
-          "movement": "6. Langsam. Ruhevoll. Empfunden. (Slow. Calm. Deeply felt.)",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "5b6857ac-61c7-401e-a51c-3b9a09d646f2",
       "programID": "690",
       "orchestra": "New York Philharmonic",
@@ -55976,7 +55999,40 @@
           "Time": "8:00PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "6755*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUARTET, PIANO, NO. 1, G MINOR, K.478",
+          "soloists": [
+            {
+              "soloistName": "Indiana University Piano Quartet",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Boe, Stephen",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Primrose, Mana",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Akahoshi, Ole",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Piitz, Lori",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "ee2873eb-cc8b-4ae3-9cef-aaea0d1990cb",
@@ -56292,76 +56348,6 @@
           "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
           "conductorName": "Previn, André",
           "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "8c9ac4c2-5f9d-4487-9a3f-dd1703278f87",
-      "programID": "5053",
-      "orchestra": "New York Philharmonic",
-      "season": "1990-91",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1991-06-12T04:00:00Z",
-          "Time": "8:00PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1991-06-13T04:00:00Z",
-          "Time": "8:00PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1991-06-14T04:00:00Z",
-          "Time": "11:00AM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1991-06-15T04:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51807*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "ACADEMIC FESTIVAL OVERTURE, OP.80",
-          "conductorName": "Previn, André",
-          "soloists": []
-        },
-        {
-          "ID": "51658*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SYMPHONY NO. 39, E-FLAT MAJOR, K.543",
-          "conductorName": "Previn, André",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51067*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "CONCERTO, PIANO NO. 24, C MINOR, K.491",
-          "conductorName": "Previn, André",
-          "soloists": [
-            {
-              "soloistName": "Previn, André",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
         }
       ]
     },
@@ -56873,6 +56859,62 @@
       ]
     },
     {
+      "id": "af962556-fb73-4a1f-b574-10f5e839bbfd",
+      "programID": "7459",
+      "orchestra": "New York Philharmonic",
+      "season": "1990-91",
+      "concerts": [
+        {
+          "eventType": "Festival",
+          "Location": "Greenvale, NY",
+          "Venue": "Tilles Center for the Performing Arts (Main)",
+          "Date": "1991-07-07T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51658*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SYMPHONY NO. 39, E-FLAT MAJOR, K.543",
+          "conductorName": "Leinsdorf, Erich",
+          "soloists": []
+        },
+        {
+          "ID": "51072*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, PIANO NO. 26, D MAJOR, K.537 \"CORONATION\"",
+          "conductorName": "Leinsdorf, Erich",
+          "soloists": [
+            {
+              "soloistName": "Bronfman, Yefim",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51288*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "ADAGIO AND FUGUE, STRING QUARTET, C MIN, K.546 (QUART./STR. ORCH.)",
+          "conductorName": "Leinsdorf, Erich",
+          "soloists": []
+        },
+        {
+          "ID": "51648*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SYMPHONY NO. 36, C MAJOR, K.425, \"LINZ\"",
+          "conductorName": "Leinsdorf, Erich",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "d9c98ebf-c346-476a-8c6e-c8857b633e0c",
       "programID": "10089",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -56967,62 +57009,6 @@
               "soloistRoles": "A"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "af962556-fb73-4a1f-b574-10f5e839bbfd",
-      "programID": "7459",
-      "orchestra": "New York Philharmonic",
-      "season": "1990-91",
-      "concerts": [
-        {
-          "eventType": "Festival",
-          "Location": "Greenvale, NY",
-          "Venue": "Tilles Center for the Performing Arts (Main)",
-          "Date": "1991-07-07T04:00:00Z",
-          "Time": "7:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51658*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SYMPHONY NO. 39, E-FLAT MAJOR, K.543",
-          "conductorName": "Leinsdorf, Erich",
-          "soloists": []
-        },
-        {
-          "ID": "51072*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "CONCERTO, PIANO NO. 26, D MAJOR, K.537 \"CORONATION\"",
-          "conductorName": "Leinsdorf, Erich",
-          "soloists": [
-            {
-              "soloistName": "Bronfman, Yefim",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51288*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "ADAGIO AND FUGUE, STRING QUARTET, C MIN, K.546 (QUART./STR. ORCH.)",
-          "conductorName": "Leinsdorf, Erich",
-          "soloists": []
-        },
-        {
-          "ID": "51648*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SYMPHONY NO. 36, C MAJOR, K.425, \"LINZ\"",
-          "conductorName": "Leinsdorf, Erich",
-          "soloists": []
         }
       ]
     },
@@ -58530,7 +58516,104 @@
           "Time": "6:30PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "6757*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUINTET, STRINGS, NO. 2, C MINOR, K.516B (OLD K.406)",
+          "soloists": [
+            {
+              "soloistName": "Ginsberg, Judith",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ginsberg, Marc",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Hannay, Dawn",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Breslaw, Irene",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Donaruma, Nancy",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "afd26759-9b7a-40fb-9049-fdd85527b90e",
+      "programID": "7534",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "1991-92",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1991-10-31T05:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51167*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "DIVERTIMENTO NO. 11, D MAJOR, K.251",
+          "soloists": [
+            {
+              "soloistName": "Robinson, Joseph",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ashby, Jerome",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Myers, Philip",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Yamada, Sharon",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Levinson, Gary",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rence, Dorian",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Stepansky, Alan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Blossom, William",
+              "soloistInstrument": "Contrabass",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "7b17cfd5-9726-4748-a78b-e83b0474d021",
@@ -58594,22 +58677,6 @@
           "soloists": []
         }
       ]
-    },
-    {
-      "id": "afd26759-9b7a-40fb-9049-fdd85527b90e",
-      "programID": "7534",
-      "orchestra": "Musicians from the New York Philharmonic",
-      "season": "1991-92",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1991-10-31T05:00:00Z",
-          "Time": "7:00PM"
-        }
-      ],
-      "works": []
     },
     {
       "id": "fc6de4ca-d43c-4670-9886-38c2c35f2989",
@@ -58872,7 +58939,55 @@
           "Time": "None"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "52537*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "OCTET, STRINGS, E FLAT MAJOR, OP.20",
+          "soloists": [
+            {
+              "soloistName": "Dicterow, Glenn",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ginsberg, Marc",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Breslaw, Irene",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Stepansky, Alan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ilg, Hiltrud",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Neumann, Monika",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Jacklin [Jäcklin], Bernd",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Stephen, Guenther",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "a17ae486-4c80-4ca9-befd-7757f5b4ad34",
@@ -59009,22 +59124,6 @@
       ]
     },
     {
-      "id": "f6f732c6-59f8-4af0-b069-0d16f838cba7",
-      "programID": "7536",
-      "orchestra": "NYP Presentation",
-      "season": "1991-92",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1991-11-21T05:00:00Z",
-          "Time": "7:00PM"
-        }
-      ],
-      "works": []
-    },
-    {
       "id": "c3f4ab45-e518-4fe8-bb93-43489d3b2b14",
       "programID": "7412",
       "orchestra": "New York Philharmonic",
@@ -59091,6 +59190,45 @@
           "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
           "conductorName": "Dutoit, Charles",
           "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "f6f732c6-59f8-4af0-b069-0d16f838cba7",
+      "programID": "7536",
+      "orchestra": "NYP Presentation",
+      "season": "1991-92",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1991-11-21T05:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6758*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "TRIO, PNO/VL/VC, G MAJOR, K.564",
+          "soloists": [
+            {
+              "soloistName": "Oshiro, Amy",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Madura, Stacy",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wendt, Stephanie",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
         }
       ]
     },
@@ -59457,7 +59595,7 @@
           "conductorName": "Leinsdorf, Erich",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -60209,7 +60347,35 @@
           "Time": "7:00PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "6755*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUARTET, PIANO, NO. 1, G MINOR, K.478",
+          "soloists": [
+            {
+              "soloistName": "Dicterow, Glenn",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Davis, Leonard",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Munroe, Lorne",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Robbins, Gerald",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b8078688-e276-4920-84c9-67a4304edcb8",
@@ -60376,7 +60542,45 @@
           "Time": "7:00PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "6753*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUINTET, STRINGS, NO. 5, D MAJOR, K.593",
+          "soloists": [
+            {
+              "soloistName": "Oberlin Conservatory Mozart Chamber Ensemble",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Ling, David",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Suk, Youngah",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Docter, Kirsten",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nakamoto, Erin",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kutz, Eric",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "420512c9-0525-4341-bcbe-9fe250046738",
@@ -60483,7 +60687,30 @@
           "Time": "7:00PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "6717*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "TRIO, PNO/VL/VC, B-FLAT MAJOR, K.502",
+          "soloists": [
+            {
+              "soloistName": "Lachert, Hanna",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Donaruma, Nancy",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Natochenny, Lev",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "7992ff83-6c96-423c-b43e-1308fc523fdd",
@@ -60499,7 +60726,45 @@
           "Time": "6:30PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "3802*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUINTET, CLARINET, A MAJOR, K.581",
+          "soloists": [
+            {
+              "soloistName": "Michigan State University Chamber Ensemble",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Lee, Seung Hee",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gregorian, Ara",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Cen, Yang",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Inoue, Lisa",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Belisle, Kristina",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b15b05de-71cd-4287-b874-69ee5a42ba81",
@@ -60769,22 +61034,6 @@
       ]
     },
     {
-      "id": "cc9d4977-b57b-47c8-8b04-5308c37d7a6d",
-      "programID": "7515",
-      "orchestra": "Musicians from the New York Philharmonic",
-      "season": "1991-92",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1992-02-05T05:00:00Z",
-          "Time": "7:00PM"
-        }
-      ],
-      "works": []
-    },
-    {
       "id": "74ea30e0-54ff-453e-99f1-35f2b14685ec",
       "programID": "7424",
       "orchestra": "New York Philharmonic",
@@ -60862,6 +61111,45 @@
       ]
     },
     {
+      "id": "cc9d4977-b57b-47c8-8b04-5308c37d7a6d",
+      "programID": "7515",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "1991-92",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1992-02-05T05:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6749*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "TRIO, PNO/VL/VC, C MAJOR, K.548",
+          "soloists": [
+            {
+              "soloistName": "Braun, Matitiahu",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Stepansky, Alan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Feldman, Jonathan",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8c36a6ce-b145-4dbb-9964-58c6ec4e6f72",
       "programID": "7518",
       "orchestra": "NYP Presentation",
@@ -60875,7 +61163,50 @@
           "Time": "7:00PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "51456*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SERENADE NO. 11, E-FLAT MAJOR, K.375",
+          "soloists": [
+            {
+              "soloistName": "McGill University Chamber Winds",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Arsenault, Patrice",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Day, Elizabeth",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Lemay, Raymond",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Glossop, Ben",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gongos, Chris",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nelsen, Jeff",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "9fd5d216-6caf-4292-ab60-895a4dcab89a",
@@ -60948,22 +61279,6 @@
       ]
     },
     {
-      "id": "06d4c79f-8c7f-4d63-8224-a1d1b80cb23a",
-      "programID": "7516",
-      "orchestra": "NYP Presentation",
-      "season": "1991-92",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1992-02-20T05:00:00Z",
-          "Time": "7:00PM"
-        }
-      ],
-      "works": []
-    },
-    {
       "id": "e3d46d4a-98ca-4a61-9990-802c758172d1",
       "programID": "7426",
       "orchestra": "New York Philharmonic",
@@ -61025,6 +61340,55 @@
           "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP. 73",
           "conductorName": "Masur, Kurt",
           "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "06d4c79f-8c7f-4d63-8224-a1d1b80cb23a",
+      "programID": "7516",
+      "orchestra": "NYP Presentation",
+      "season": "1991-92",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1992-02-20T05:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3482*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUARTET, STRINGS, NO. 23, F MAJOR, K.590",
+          "soloists": [
+            {
+              "soloistName": "Quartet Tedesca",
+              "soloistInstrument": "String Quartet",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Schleuning, Maria",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kwuon, Joan",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Browne, Sheila",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Koehl, Laura",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
         }
       ]
     },
@@ -61092,7 +61456,40 @@
           "Time": "10:00AM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "1287*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUARTET, PIANO, NO. 2, E-FLAT MAJOR, K.493",
+          "soloists": [
+            {
+              "soloistName": "Cornell University Eighteenth-Century Performance Ensemble",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Field, Elizabeth",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Barsamian, Mark",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kramer, Laura",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Willis, Andrew",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b6e0c8b1-db1d-4b9d-af1b-7c9c1e7ad302",
@@ -61157,6 +61554,45 @@
       ]
     },
     {
+      "id": "b5bd9260-6cd6-4d89-ae7c-b54736be3386",
+      "programID": "7520",
+      "orchestra": "NYP Presentation",
+      "season": "1991-92",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1992-03-07T05:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6750*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "TRIO, PNO/VL/VC, E MAJOR, K.542",
+          "soloists": [
+            {
+              "soloistName": "Scott, Melinda",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Schagerl, Gunter",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Hudson, Sharon Murphy",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8af79e61-dfa3-4c5c-84d3-933a1c68adf2",
       "programID": "7519",
       "orchestra": "New York Philharmonic",
@@ -61210,22 +61646,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b5bd9260-6cd6-4d89-ae7c-b54736be3386",
-      "programID": "7520",
-      "orchestra": "NYP Presentation",
-      "season": "1991-92",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1992-03-07T05:00:00Z",
-          "Time": "7:00PM"
-        }
-      ],
-      "works": []
     },
     {
       "id": "fd0f9989-54ff-41b8-812a-63b385c9c6c5",
@@ -61297,7 +61717,60 @@
           "Time": "10:00AM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "2378*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SERENADE NO. 12, C MINOR, K.384A (OLD K.388)",
+          "soloists": [
+            {
+              "soloistName": "University of Cincinnati College-Conservatory of Music Wind Octet",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Dixon, Robyn",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kirkdorffer, Michele",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kirby, David",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Todey, Christine",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Hartley, Jay R.",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "McMullen, Laura",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Johns, Kirsten",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "McGaughey, Marcie",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "bf26999c-9a54-424d-b598-c3ffbcf7fd17",
@@ -62155,7 +62628,40 @@
           "Time": "7:00PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "6593*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUINTET, STRINGS, NO. 4, G MINOR, K.516",
+          "soloists": [
+            {
+              "soloistName": "Simon, Fiona",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Schiller, Allan",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nelson, Judith",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Hannay, Dawn",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Stepansky, Alan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "6b73965a-9883-4e15-ad6b-119f1686644b",
@@ -62513,7 +63019,45 @@
           "Time": "6:45PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "3793*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SEXTET, STRINGS, D MAJOR, OP.70 \"SOUVENIR DE FLORENCE\"",
+          "soloists": [
+            {
+              "soloistName": "Dicterow, Glenn",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ginsberg, Marc",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Breslaw, Irene",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rence, Dorian",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Munroe, Lorne",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Appleman, Gerald K.",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "ed0e26f2-02de-402d-9bd8-90397d0df3e7",
@@ -62622,7 +63166,35 @@
           "Time": "6:45PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "6756*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "QUARTET, STRING  NO. 1, D MAJOR, OP. 11",
+          "soloists": [
+            {
+              "soloistName": "Rex, Charles",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Tsypin, Vladimir",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Young, Rebecca",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Stepansky, Alan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "c20c83c2-8964-4c5a-9794-62ee8ea9278b",
@@ -64414,7 +64986,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Snare Drum",
               "soloistRoles": "A"
             }
@@ -64662,7 +65234,6 @@
           "ID": "2369*",
           "composerName": "Schoenberg,  Arnold",
           "workTitle": "VERKLAERTE NACHT (TRANSFIGURED NIGHT), OP. 4",
-          "conductorName": "Wong, Samuel",
           "soloists": [
             {
               "soloistName": "Dicterow, Glenn",
@@ -66725,7 +67296,7 @@
       "season": "1992-93",
       "concerts": [
         {
-          "eventType": "Subscription Season",
+          "eventType": "Runout",
           "Location": "Washington, DC",
           "Venue": "John F. Kennedy Center for the Performing Arts",
           "Date": "1993-03-20T05:00:00Z",
@@ -69382,7 +69953,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Wong, Samuel",
           "soloists": []
         },
@@ -69426,7 +69997,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Wong, Samuel",
           "soloists": []
         },
@@ -69664,7 +70235,40 @@
           "Time": "6:45PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "6297*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "QUINTET, PIANO/STRINGS, E-FLAT MAJOR, OP.44",
+          "soloists": [
+            {
+              "soloistName": "Levinson, Gary",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Yamada, Sharon",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rence, Dorian",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Benedetti, Evangeline",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Feldman, Jonathan",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "62fe9a9c-bd1e-4502-9ab3-fa6fb64cd80d",
@@ -69751,7 +70355,30 @@
           "Time": "6:45PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "3748*",
+          "composerName": "Schumann,  Clara",
+          "workTitle": "TRIO, PIANO, OP. 17",
+          "soloists": [
+            {
+              "soloistName": "McDermott, Kerry",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Stepansky, Alan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Feldman, Jonathan",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "22faea8c-aa10-48cd-a233-628d971ed018",
@@ -69772,6 +70399,7 @@
           "ID": "8837*10",
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "FIDELIO, OP. 72",
+          "movement": "Overture",
           "conductorName": "Masur, Kurt",
           "soloists": []
         },
@@ -69996,6 +70624,103 @@
       ]
     },
     {
+      "id": "2d72bc88-8304-494f-8f80-f275ce85a02c",
+      "programID": "7576",
+      "orchestra": "New York Philharmonic",
+      "season": "1993-94",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1993-10-14T04:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1993-10-15T04:00:00Z",
+          "Time": "11:00AM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1993-10-16T04:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1993-10-19T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51710*1",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "SEMIRAMIDE",
+          "movement": "Overture",
+          "conductorName": "Macal, Zdenek",
+          "soloists": []
+        },
+        {
+          "ID": "50954*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, FLUTE NO. 1, G MAJOR, K.285C (OLD K.313)",
+          "conductorName": "Macal, Zdenek",
+          "soloists": [
+            {
+              "soloistName": "Galway, James",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "6848*",
+          "composerName": "Traditional,",
+          "workTitle": "BRIAN BORU MARCH (ARR. Figueroa)",
+          "conductorName": "Macal, Zdenek",
+          "soloists": [
+            {
+              "soloistName": "Galway, James",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "6849*",
+          "composerName": "Traditional,",
+          "workTitle": "DANNY BOY (ARR. Overton)",
+          "conductorName": "Macal, Zdenek",
+          "soloists": [
+            {
+              "soloistName": "Galway, James",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53338*",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 6, D MAJOR, OP.60 (OLD NO. 1)",
+          "conductorName": "Macal, Zdenek",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "b826119f-0b39-4009-87ef-7e9b0d4c33e7",
       "programID": "10092",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -70133,103 +70858,6 @@
               "soloistRoles": "A"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "2d72bc88-8304-494f-8f80-f275ce85a02c",
-      "programID": "7576",
-      "orchestra": "New York Philharmonic",
-      "season": "1993-94",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1993-10-14T04:00:00Z",
-          "Time": "8:00PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1993-10-15T04:00:00Z",
-          "Time": "11:00AM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1993-10-16T04:00:00Z",
-          "Time": "8:00PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1993-10-19T04:00:00Z",
-          "Time": "7:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51710*1",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "SEMIRAMIDE",
-          "movement": "Overture",
-          "conductorName": "Macal, Zdenek",
-          "soloists": []
-        },
-        {
-          "ID": "50954*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "CONCERTO, FLUTE NO. 1, G MAJOR, K.285C (OLD K.313)",
-          "conductorName": "Macal, Zdenek",
-          "soloists": [
-            {
-              "soloistName": "Galway, James",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "6848*",
-          "composerName": "Traditional,",
-          "workTitle": "BRIAN BORU MARCH (ARR. Figueroa)",
-          "conductorName": "Macal, Zdenek",
-          "soloists": [
-            {
-              "soloistName": "Galway, James",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "6849*",
-          "composerName": "Traditional,",
-          "workTitle": "DANNY BOY (ARR. Overton)",
-          "conductorName": "Macal, Zdenek",
-          "soloists": [
-            {
-              "soloistName": "Galway, James",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53338*",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 6, D MAJOR, OP.60 (OLD NO. 1)",
-          "conductorName": "Macal, Zdenek",
-          "soloists": []
         }
       ]
     },
@@ -71440,7 +72068,7 @@
         },
         {
           "ID": "2787*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "CREOLE LOVE CALL",
           "conductorName": "Masur, Kurt",
           "soloists": [
@@ -71501,7 +72129,35 @@
           "Time": "7:00PM"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "2688*",
+          "composerName": "Weill,  Kurt",
+          "workTitle": "QUARTET, STRING, NO. 1, OP.8",
+          "soloists": [
+            {
+              "soloistName": "Braun, Matitiahu",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Yamada, Sharon",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Breslaw, Irene",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Coleman, Avron",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "c9af91ce-0891-473f-961c-533369a63bd4",
@@ -73371,7 +74027,7 @@
           "conductorName": "Slatkin, Leonard",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -74443,7 +75099,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "A"
             },
@@ -75748,7 +76404,7 @@
           "conductorName": "Masur, Kurt",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -75797,7 +76453,7 @@
           "conductorName": "Masur, Kurt",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -80733,7 +81389,7 @@
           "conductorName": "Macal, Zdenek",
           "soloists": [
             {
-              "soloistName": "De Larrocha, Alicia",
+              "soloistName": "de Larrocha, Alicia",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -82385,6 +83041,42 @@
       ]
     },
     {
+      "id": "0c697c12-f48d-4f1f-b952-4cd766a74865",
+      "programID": "10094",
+      "orchestra": "NYP Presentation",
+      "season": "1994-95",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1995-07-21T04:00:00Z",
+          "Time": "7:00PM"
+        },
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1995-07-22T04:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52809*",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "WANDERERFANTASIE, D.760 (PIANO/ORCH) (ARR. Liszt)",
+          "soloists": [
+            {
+              "soloistName": "Roesel, Peter",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "25a45b91-24e3-4fe2-b406-437d4783ce52",
       "programID": "7749",
       "orchestra": "New York Philharmonic",
@@ -82454,29 +83146,6 @@
           "soloists": []
         }
       ]
-    },
-    {
-      "id": "0c697c12-f48d-4f1f-b952-4cd766a74865",
-      "programID": "10094",
-      "orchestra": "NYP Presentation",
-      "season": "1994-95",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1995-07-21T04:00:00Z",
-          "Time": "7:00PM"
-        },
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1995-07-22T04:00:00Z",
-          "Time": "7:00PM"
-        }
-      ],
-      "works": []
     },
     {
       "id": "808ea8d2-7985-4f19-9b17-923465bd79eb",
