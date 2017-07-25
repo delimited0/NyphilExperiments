@@ -2,7 +2,6 @@ library(tidyverse)
 library(tidytext)
 library(stringr)
 library(devtools)
-#install_github("dgrtwo/widyr")
 library(widyr)
 library(magrittr)
 library(tm)
@@ -22,8 +21,8 @@ program_tbl <- programs$works %>%
   map2(as.numeric(programs$programID), function(x, y) {
     x %>% mutate(programID = y)
   }) %>%
-  keep(~nrow(.) > 0) %>%
-  map(~select(., composerName, workTitle, programID)) %>%
+  keep(~nrow(.) > 0 & "conductorName" %in% colnames(.)) %>%
+  map(~select(., composerName, conductorName, workTitle, programID)) %>%
   map(function(x) {
     if (typeof(x$workTitle) == "list")
       # flatten workTitles that are split into lists
@@ -34,17 +33,8 @@ program_tbl <- programs$works %>%
   map(~filter(., !is.na(workTitle) & workTitle != "")) %>%
   bind_rows
 
-pair_count <- program_tbl %>% pairwise_count(item = composerName, feature = programID,
-                                          sort = TRUE)
-# program_tbl %>% pairwise_cor(item = composerName, feature = programID, sort = TRUE)
-
+program_tbl %<>% mutate(workTitle = paste(composerName, workTitle, sep = "; "))
 composer_dict <- distinct(program_tbl, composerName)
+piece_dict <- distinct(program_tbl, workTitle)
 program_tbl %<>% mutate(composerID = match(composerName, composer_dict$composerName))
-
-composer_btm <- btm(program_tbl$composerName, program_tbl$programID, K = 30)
-
-get_topics(composer_btm, 20)
-
-coherence(composer_btm, 20)
-
-
+program_tbl %<>% mutate(pieceID = match(workTitle, piece_dict$workTitle))

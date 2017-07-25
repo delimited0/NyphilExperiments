@@ -23,4 +23,6 @@ public:
   void reset_z() {z = -1;}
 };
 
+List biterm_vectors(NumericVector token_ids, NumericVector doc_ids);
+
 #endif

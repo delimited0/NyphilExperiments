@@ -14,7 +14,8 @@ NumericVector Btm::sample_prob(Biterm& bi) {
     Q[k] = (alpha + topic_count_bt[k] - subtract) * 
       (eta + word_topic_count(bi.get_wi(), k) - subtract) *
       (eta + word_topic_count(bi.get_wj(), k) - subtract) /
-      std::pow(topic_count_wd[k] - (2.0 * subtract) + (V * eta), 2.0);
+      ((topic_count_wd[k] - subtract + V * eta + 1) * 
+        (topic_count_wd[k] - subtract + V * eta));
     if (k != 0)
       Q[k] = Q[k] + Q[k-1];
     // Rcout << "Q_" << k << ": " << Q[k] << " " << std::endl;
@@ -35,8 +36,8 @@ void Btm::update_counts(Biterm& bi, int k) {
   topic_count_bt(k)++;
 }
 
-NumericMatrix Btm::calc_beta() {
-  NumericMatrix beta(V, K);
+arma::mat Btm::calc_beta() {
+  arma::mat beta(V, K, arma::fill::zeros);
   for (int k = 0; k < K; k++) {
     for (int w = 0; w < V; w++) {
       beta(w, k) = (word_topic_count(w, k) + eta) / (topic_count_wd[k] + V * eta);
@@ -45,9 +46,9 @@ NumericMatrix Btm::calc_beta() {
   return beta;
 }
 
-NumericVector Btm::calc_theta() {
+arma::rowvec Btm::calc_theta() {
 // B - number of biterms
-  NumericVector theta(K);
+  arma::rowvec theta(K, arma::fill::zeros);
   for (int k = 0; k < K; k++) {
     theta[k] = (topic_count_bt[k] + alpha) / (B + K * alpha);
   }
@@ -74,6 +75,9 @@ List btm_gibbs(NumericVector token_ids, NumericVector doc_ids, int K,
   Btm btm = Btm(V, K, alpha, eta, bs);
   
   int B = bs.size();
+  arma::mat theta_trace(iter, K);
+  theta_trace.zeros();
+  arma::cube beta_trace(V, K, iter);
   
   for (int j = 0; j < iter; j++) {
     NumericVector u = runif(B);
@@ -93,17 +97,18 @@ List btm_gibbs(NumericVector token_ids, NumericVector doc_ids, int K,
         }
       }
     }
+    
+    theta_trace.row(j) = btm.calc_theta();
+    beta_trace.slice(j) = btm.calc_beta();
   }
   
-  NumericMatrix beta = btm.calc_beta();
-  NumericVector theta = btm.calc_theta();
   NumericVector zs(B);
   for (int b = 0; b < B; b++) 
     zs[b] = bs[b].get_z();
   
   List result;
-  result["beta"] = beta;
-  result["theta"] = theta;
+  result["beta_trace"] = beta_trace;
+  result["theta_trace"] = theta_trace;
   result["word_topic_count"] = btm.get_word_topic_count();
   result["topic_count_wd"] = btm.get_topic_count_wd();
   result["topic_count_bt"] = btm.get_topic_count_bt();

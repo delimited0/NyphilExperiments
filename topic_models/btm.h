@@ -10,16 +10,16 @@ private:
   int B;
   double alpha;
   double eta;
-  NumericMatrix word_topic_count;
-  NumericVector topic_count_wd;
-  NumericVector topic_count_bt;
+  arma::mat word_topic_count;
+  arma::vec topic_count_wd;
+  arma::vec topic_count_bt;
   
 public:
   Btm(int V, int K, double alpha, double eta, 
       std::vector<Biterm> bs) : K(K), V(V), alpha(alpha), eta(eta) {
-    word_topic_count = NumericMatrix(V, K);
-    topic_count_wd = NumericVector(K);
-    topic_count_bt = NumericVector(K);
+    word_topic_count = arma::mat(V, K, arma::fill::zeros);
+    topic_count_wd = arma::vec(K, arma::fill::zeros);
+    topic_count_bt = arma::vec(K, arma::fill::zeros);
     
     this->B = bs.size();
     for (int i = 0; i < B; i++) {
@@ -37,15 +37,15 @@ public:
   // update counts
   void update_counts(Biterm& bi, int k);
   
-  NumericMatrix calc_beta();
+  arma::mat calc_beta();
   
-  NumericVector calc_theta();
+  arma::rowvec calc_theta();
   
-  NumericMatrix get_word_topic_count() { return word_topic_count;}
+  arma::mat get_word_topic_count() { return word_topic_count;}
   
-  NumericVector get_topic_count_wd() { return topic_count_wd;}
+  arma::vec get_topic_count_wd() { return topic_count_wd;}
   
-  NumericVector get_topic_count_bt() {return topic_count_bt;}
+  arma::vec get_topic_count_bt() {return topic_count_bt;}
 };
 
 List btm_gibbs(NumericVector token_ids, NumericVector doc_ids, int K, 
