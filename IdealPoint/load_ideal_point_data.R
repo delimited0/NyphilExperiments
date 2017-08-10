@@ -4,7 +4,8 @@ library(stringr)
 load("../all_programs.RData")
 
 data <- performance %>% 
-  dplyr::select(id, work_id, composer, title, movement, conductor) %>%
+  dplyr::select(id, work_id, composer, title, movement, conductor,
+                season, event_type) %>%
   
   filter(!is.na(conductor) & conductor != "Not conducted") %>%
   mutate(movement = ifelse(is.na(movement), "", movement)) %>%
@@ -19,6 +20,14 @@ data$conductor <- data$conductor %>%
     return(ifelse(y[1] == "", y[2], y[1]))
   }) %>%
   str_trim
+
+# don't double count when program the same except for encore or something 
+# differing each day for a subscription concert
+subs_data <- data %>%
+  filter(event_type == "Subscription Season") %>%
+  distinct(season, work_id, conductor, .keep_all = TRUE)
+data %<>% filter(event_type != "Subscription Season") %>%
+  rbind(subs_data)
 
 # pieces ----
 # accounts for multiple movements of the same piece being played
@@ -47,5 +56,5 @@ composer_count_mat <- composer_counts %>%
   dplyr::select(-conductor) %>%
   as.matrix()
 rownames(composer_count_mat) <- composer_counts$conductor %>% as_vector
-composer_freq_mat <- composer_count_mat / rowSums(composer_count_mat)
+# composer_freq_mat <- composer_count_mat / rowSums(composer_count_mat)
 
